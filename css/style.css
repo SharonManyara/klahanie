@@ -35,5 +35,8 @@ div.main {
 }
 .nav-item a {
   color: #e33833;
-  
+
+}
+.nav-item .active {
+  font-weight: bold;
 }
