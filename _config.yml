@@ -29,15 +29,15 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-gems:
   - octopress-debugger
 
 collections:  
-  - announcements
-  - staff
-  - board
-  - neighborhoods
+  announcements:
+  staff:
+  board:
+  neighborhoods:
+    output: true
+    url: neighborhoods
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
