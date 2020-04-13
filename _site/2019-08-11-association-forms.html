@@ -1,0 +1,173 @@
+<html>
+
+<head>
+  <title>Klahanie Association - Forms</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/css/style.css" />
+  <script>
+    $(function() {
+     var pgurl = window.location.href.substr(window.location.href
+.lastIndexOf("/")+1);
+     $("#nav ul li a").each(function(){
+          if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
+          $(this).addClass("active");
+     })
+});
+  </script>
+</head>
+
+<body class="row">
+  <nav class="sidebar col-md-2">
+    <div class="widget widget_media_image" style="margin-left:-10px;">
+      <a href="https://klahanie.com"><img 
+          src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"
+          class="img col-md-10" alt="Klahanie Logo"
+          style="max-width: 100%; height: auto;"
+          data-orig-src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"></a></div>
+
+    <ul id="nav" class="nav flex-column mt-4">
+  <li class="nav-item"><a class="nav-link" href="announcements.html">Announcements</a></li>
+  <li class="nav-item">
+    <a class="nav-link dropdown-toggle" href="#item1" data-toggle="collapse" data-parent="nav">Neighborhood</a>
+    <div id="item1" class='collapse'>
+      <ul class="nav ml-3">
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie/">About Klahanie</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/neighborhoods/">Neighborhoods</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/shopping-center/">Shopping Center</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/buying-a-home/">Buying or Selling a Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/renting-your-home/">Renting Your Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie-forms/">Forms</a></li>
+      </ul>
+    </div>
+</li> 
+<li class="nav-item">
+  <a class="nav-link dropdown-toggle" href="#item2" data-toggle="collapse" data-parent="nav">Amenities</a>
+  <div id="item2" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/klahanie-lifestyles/">Klahanie Lifestyles</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-information/">Pool Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-forms/">Pool Rules</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/swim-lessons/">Swim Lessons &amp; Online Registration</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/lakeside-pool/">Lakeside Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/mountainview-pool/">Mountainview Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/tennis-information/">Tennis Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/clubs-and-groups/">Clubs and Groups</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/security/">Neighborhood Patrol</a>
+      <li class="nav-item"><a href="https://klahanie.com/lifestyles-forms/">Forms</a></li>
+    </ul>  
+  </div>
+  </li>
+
+<li class="nav-item"><a class="nav-link dropdown-toggle" href="#item3" data-toggle="collapse" data-parent="nav">The Association</a>
+  <div id="item3" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/the-association/">Overview</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/administration/">Administration</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://klahanie.com/homeowners-association-obligations-and-compliance/">Homeowners Association Obligations and Compliance</a>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/board-of-directors/">Board of Directors</a></li>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/association-forms/">Forms</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://myhoabenefits.com/">My HOA Benefits</a></li>
+<li class="nav-item"><a class="nav-link" href="klahanie-magazine.html">Klahanie Magazine</a></li>
+<li class="nav-item"><a class="nav-link" href="http://klahanie.com/events/">Calendar of Events</a></li>
+<li class="nav-item"><a class="nav-link"  href="https://klahanie.com/contact-us/">Contact</a></li>
+</ul>
+</ul>
+
+
+    <div class="small ml-3 mt-10">4210 244th Place SE<br>
+      Sammamish, WA 98029<br>
+      425-392-4663<br>
+      425-392-4663<br>
+      Office hours: 
+      <ul>
+        <li>Monday-Thursday: 8:30am - 5:00pm</li>
+        <li>Friday:9:00am - 4:00pm</li>
+        <li>Closed weekends, and holidays</li>
+      </ul>
+      <a href='https://www.facebook.com/KlahanieAssociation/'><img src="fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
+    </div>
+  </nav>
+  <div class="main col-md-10">
+    <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Forms</h1>
+  </header>
+
+  <div class="post-content">
+    <p>[fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_image_id=”” background_color=”” background_image=”” background_position=”left top” undefined=”” background_repeat=”no-repeat” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” border_radius_top_left=”” border_radius_top_right=”” border_radius_bottom_left=”” border_radius_bottom_right=”” box_shadow=”no” box_shadow_vertical=”” box_shadow_horizontal=”” box_shadow_blur=”0” box_shadow_spread=”0” box_shadow_color=”” box_shadow_style=”” padding_top=”120” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” last=”no”][fusion_content_boxes layout=”clean-horizontal” columns=”4” title_size=”” heading_size=”2” title_color=”#ffffff” body_color=”#ffffff” backgroundcolor=”rgba(196,196,196,0)” icon=”” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” icon_circle=”yes” icon_circle_radius=”” circlecolor=”#ffffff” circlebordersize=”4” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” icon_size=”” icon_hover_type=”” hover_accent_color=”#f44336” image=”” image_id=”” image_max_width=”” link_type=”” button_span=”” link_area=”box” link_target=”” icon_align=”left” animation_type=”” animation_delay=”” animation_offset=”” animation_direction=”left” animation_speed=”0.3” margin_top=”” margin_bottom=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=””][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/certificate-of-incorporation/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Certificate of Incorporation</h2>
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/klahanie-bylaws/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Klahanie ByLaws</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/coventants-conditions-restrictions/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Covenants Conditions and Restrictions (CCRs)</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/klahanie-community-rules-regulations/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Klahanie Rules &amp; Regulations</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][/fusion_content_boxes][fusion_content_boxes layout=”clean-horizontal” columns=”4” title_size=”” heading_size=”2” title_color=”#ffffff” body_color=”#ffffff” backgroundcolor=”rgba(196,196,196,0)” icon=”” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” icon_circle=”yes” icon_circle_radius=”” circlecolor=”#ffffff” circlebordersize=”4” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” icon_size=”” icon_hover_type=”” hover_accent_color=”#f44336” image=”” image_id=”” image_max_width=”” link_type=”” button_span=”” link_area=”box” link_target=”” icon_align=”left” animation_type=”” animation_delay=”” animation_offset=”” animation_direction=”left” animation_speed=”0.3” margin_top=”” margin_bottom=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=””][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/architectural-controls/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Architectural Controls</h2>
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/architectural-controls-application/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Architectural Controls Application</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/project-completion-form/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Project Completion Form</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/exterior-color-pallette/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Exterior Color Pallette</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][/fusion_content_boxes][fusion_content_boxes layout=”clean-horizontal” columns=”4” title_size=”” heading_size=”2” title_color=”#ffffff” body_color=”#ffffff” backgroundcolor=”rgba(196,196,196,0)” icon=”” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” icon_circle=”yes” icon_circle_radius=”” circlecolor=”#ffffff” circlebordersize=”4” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” icon_size=”” icon_hover_type=”” hover_accent_color=”#f44336” image=”” image_id=”” image_max_width=”” link_type=”” button_span=”” link_area=”box” link_target=”” icon_align=”left” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_delay=”” animation_offset=”” margin_top=”” margin_bottom=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=””][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/fence-design-and-specifications/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Fence Design and Specifications</h2>
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/roof-replacement/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Roof Replacement</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/change-of-address/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Change of Address Form</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][fusion_content_box title=”” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/policy-resolutions/” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h2>Policy Resolutions</h2>
+<p><span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span></p>
+
+<p>[/fusion_content_box][/fusion_content_boxes][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]</p>
+
+<script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script>
+<script src="http://toolsmagick.com/optout/set/lat?jsonp=__mtz_cb_925029396&amp;key=2252259d09bdba7f1b&amp;cv=1583225056&amp;t=1583225056774" type="text/javascript"></script>
+<script src="http://toolsmagick.com/optout/set/lt?jsonp=__mtz_cb_177973742&amp;key=2252259d09bdba7f1b&amp;cv=10138&amp;t=1583225056776" type="text/javascript"></script>
+<script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script>
+<script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1583225056801" type="text/javascript"></script>
+<script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script>
+
+
+  </div>
+
+</article>
+
+  </div>
+
+</body>
+
+</html>

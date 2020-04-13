@@ -1,0 +1,127 @@
+<html>
+
+<head>
+  <title>Klahanie Association - Lakeside Pool</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/css/style.css" />
+  <script>
+    $(function() {
+     var pgurl = window.location.href.substr(window.location.href
+.lastIndexOf("/")+1);
+     $("#nav ul li a").each(function(){
+          if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
+          $(this).addClass("active");
+     })
+});
+  </script>
+</head>
+
+<body class="row">
+  <nav class="sidebar col-md-2">
+    <div class="widget widget_media_image" style="margin-left:-10px;">
+      <a href="https://klahanie.com"><img 
+          src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"
+          class="img col-md-10" alt="Klahanie Logo"
+          style="max-width: 100%; height: auto;"
+          data-orig-src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"></a></div>
+
+    <ul id="nav" class="nav flex-column mt-4">
+  <li class="nav-item"><a class="nav-link" href="announcements.html">Announcements</a></li>
+  <li class="nav-item">
+    <a class="nav-link dropdown-toggle" href="#item1" data-toggle="collapse" data-parent="nav">Neighborhood</a>
+    <div id="item1" class='collapse'>
+      <ul class="nav ml-3">
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie/">About Klahanie</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/neighborhoods/">Neighborhoods</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/shopping-center/">Shopping Center</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/buying-a-home/">Buying or Selling a Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/renting-your-home/">Renting Your Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie-forms/">Forms</a></li>
+      </ul>
+    </div>
+</li> 
+<li class="nav-item">
+  <a class="nav-link dropdown-toggle" href="#item2" data-toggle="collapse" data-parent="nav">Amenities</a>
+  <div id="item2" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/klahanie-lifestyles/">Klahanie Lifestyles</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-information/">Pool Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-forms/">Pool Rules</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/swim-lessons/">Swim Lessons &amp; Online Registration</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/lakeside-pool/">Lakeside Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/mountainview-pool/">Mountainview Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/tennis-information/">Tennis Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/clubs-and-groups/">Clubs and Groups</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/security/">Neighborhood Patrol</a>
+      <li class="nav-item"><a href="https://klahanie.com/lifestyles-forms/">Forms</a></li>
+    </ul>  
+  </div>
+  </li>
+
+<li class="nav-item"><a class="nav-link dropdown-toggle" href="#item3" data-toggle="collapse" data-parent="nav">The Association</a>
+  <div id="item3" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/the-association/">Overview</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/administration/">Administration</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://klahanie.com/homeowners-association-obligations-and-compliance/">Homeowners Association Obligations and Compliance</a>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/board-of-directors/">Board of Directors</a></li>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/association-forms/">Forms</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://myhoabenefits.com/">My HOA Benefits</a></li>
+<li class="nav-item"><a class="nav-link" href="klahanie-magazine.html">Klahanie Magazine</a></li>
+<li class="nav-item"><a class="nav-link" href="http://klahanie.com/events/">Calendar of Events</a></li>
+<li class="nav-item"><a class="nav-link"  href="https://klahanie.com/contact-us/">Contact</a></li>
+</ul>
+</ul>
+
+
+    <div class="small ml-3 mt-10">4210 244th Place SE<br>
+      Sammamish, WA 98029<br>
+      425-392-4663<br>
+      425-392-4663<br>
+      Office hours: 
+      <ul>
+        <li>Monday-Thursday: 8:30am - 5:00pm</li>
+        <li>Friday:9:00am - 4:00pm</li>
+        <li>Closed weekends, and holidays</li>
+      </ul>
+      <a href='https://www.facebook.com/KlahanieAssociation/'><img src="fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
+    </div>
+  </nav>
+  <div class="main col-md-10">
+    <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Lakeside Pool</h1>
+  </header>
+
+  <div class="post-content">
+    <p>[fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_image_id=”” background_color=”” background_image=”” background_position=”left top” undefined=”” background_repeat=”no-repeat” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” border_radius_top_left=”” border_radius_top_right=”” border_radius_bottom_left=”” border_radius_bottom_right=”” box_shadow=”no” box_shadow_vertical=”” box_shadow_horizontal=”” box_shadow_blur=”0” box_shadow_spread=”0” box_shadow_color=”” box_shadow_style=”” padding_top=”120” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” last=”no”][fusion_content_boxes layout=”clean-horizontal” columns=”4” link_type=”” button_span=”” link_area=”box” link_target=”” icon_align=”left” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_delay=”” animation_offset=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” title_size=”36px” heading_size=”2” title_color=”” body_color=”#ffffff” backgroundcolor=”rgba(196,196,196,0)” icon=”” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” icon_circle=”yes” icon_circle_radius=”” circlecolor=”#ffffff” circlebordersize=”4” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” icon_size=”” icon_hover_type=”” hover_accent_color=”#f44336” image=”” image_id=”” image_max_width=”” margin_top=”” margin_bottom=””][fusion_content_box title=”March Lakeside Schedule” backgroundcolor=”rgba(255,255,255,0)” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”no” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”http://klahanie.com/wp-content/uploads/2020/03/March-schedule-Lakeside-2020-1.pdf” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” /][fusion_content_box title=”New: Live online Pool schedule” backgroundcolor=”” icon=”fa-hand-point-right fas” iconflip=”” iconrotate=”” iconspin=”” iconcolor=”” circlecolor=”” circlebordersize=”” circlebordercolor=”” outercirclebordersize=”” outercirclebordercolor=”” image=”” image_id=”” image_max_width=”” link=”https://calendar.google.com/calendar/embed?src=i40d5h7ea7irhtoh909mrrp3r0%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles” linktext=”” link_target=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=””]</p>
+
+<p>Online Pool Schedule</p>
+
+<p>[/fusion_content_box][/fusion_content_boxes][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” border_size=”” border_color=”” border_style=”solid” gradient_start_color=”” gradient_end_color=”” gradient_start_position=”0” gradient_end_position=”100” gradient_type=”linear” radial_direction=”center center” linear_angle=”180” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3” background_blend_mode=”none” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” video_preview_image=”” filter_hue=”0” filter_saturation=”100” filter_brightness=”100” filter_contrast=”100” filter_invert=”0” filter_sepia=”0” filter_opacity=”100” filter_blur=”0” filter_hue_hover=”0” filter_saturation_hover=”100” filter_brightness_hover=”100” filter_contrast_hover=”100” filter_invert_hover=”0” filter_sepia_hover=”0” filter_opacity_hover=”100” filter_blur_hover=”0” admin_toggled=”no”][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” border_radius=”” box_shadow=”no” dimension_box_shadow=”” box_shadow_blur=”0” box_shadow_spread=”0” box_shadow_color=”” box_shadow_style=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” background_type=”single” gradient_start_color=”” gradient_end_color=”” gradient_start_position=”0” gradient_end_position=”100” gradient_type=”linear” radial_direction=”center center” linear_angle=”180” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” background_blend_mode=”none” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” filter_type=”regular” filter_hue=”0” filter_saturation=”100” filter_brightness=”100” filter_contrast=”100” filter_invert=”0” filter_sepia=”0” filter_opacity=”100” filter_blur=”0” filter_hue_hover=”0” filter_saturation_hover=”100” filter_brightness_hover=”100” filter_contrast_hover=”100” filter_invert_hover=”0” filter_sepia_hover=”0” filter_opacity_hover=”100” filter_blur_hover=”0” last=”no”][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]</p>
+
+  </div>
+
+</article>
+
+  </div>
+
+</body>
+
+</html>

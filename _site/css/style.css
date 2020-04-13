@@ -1,0 +1,39 @@
+nav.sidebar {
+  width:150px;
+}
+body {
+  background: rgba(139,195,74,0.09);
+  padding-top:10px;
+}
+div.main {
+  float:left;
+  width:auto;
+}
+.bignav {
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+.bignav a {
+  color: white;
+  size: 24px;
+  vertical-align: middle;
+}
+.green {
+  background-color:rgb(96, 125, 139);
+}
+.orange {
+  background-color:rgb(250, 153, 136);
+}
+.green2 {
+  background-color:rgb(100, 173, 164);
+}
+.blue {
+  background-color:rgb(116, 197, 227);
+}
+.nav-item a {
+  color: #e33833;
+  
+}

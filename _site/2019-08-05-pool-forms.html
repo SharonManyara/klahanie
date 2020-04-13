@@ -1,0 +1,261 @@
+<html>
+
+<head>
+  <title>Klahanie Association - Pool Rules</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/css/style.css" />
+  <script>
+    $(function() {
+     var pgurl = window.location.href.substr(window.location.href
+.lastIndexOf("/")+1);
+     $("#nav ul li a").each(function(){
+          if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
+          $(this).addClass("active");
+     })
+});
+  </script>
+</head>
+
+<body class="row">
+  <nav class="sidebar col-md-2">
+    <div class="widget widget_media_image" style="margin-left:-10px;">
+      <a href="https://klahanie.com"><img 
+          src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"
+          class="img col-md-10" alt="Klahanie Logo"
+          style="max-width: 100%; height: auto;"
+          data-orig-src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"></a></div>
+
+    <ul id="nav" class="nav flex-column mt-4">
+  <li class="nav-item"><a class="nav-link" href="announcements.html">Announcements</a></li>
+  <li class="nav-item">
+    <a class="nav-link dropdown-toggle" href="#item1" data-toggle="collapse" data-parent="nav">Neighborhood</a>
+    <div id="item1" class='collapse'>
+      <ul class="nav ml-3">
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie/">About Klahanie</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/neighborhoods/">Neighborhoods</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/shopping-center/">Shopping Center</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/buying-a-home/">Buying or Selling a Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/renting-your-home/">Renting Your Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie-forms/">Forms</a></li>
+      </ul>
+    </div>
+</li> 
+<li class="nav-item">
+  <a class="nav-link dropdown-toggle" href="#item2" data-toggle="collapse" data-parent="nav">Amenities</a>
+  <div id="item2" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/klahanie-lifestyles/">Klahanie Lifestyles</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-information/">Pool Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-forms/">Pool Rules</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/swim-lessons/">Swim Lessons &amp; Online Registration</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/lakeside-pool/">Lakeside Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/mountainview-pool/">Mountainview Pool</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/tennis-information/">Tennis Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/clubs-and-groups/">Clubs and Groups</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/security/">Neighborhood Patrol</a>
+      <li class="nav-item"><a href="https://klahanie.com/lifestyles-forms/">Forms</a></li>
+    </ul>  
+  </div>
+  </li>
+
+<li class="nav-item"><a class="nav-link dropdown-toggle" href="#item3" data-toggle="collapse" data-parent="nav">The Association</a>
+  <div id="item3" class="collapse">
+    <ul class="nav ml-3">
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/the-association/">Overview</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://klahanie.com/administration/">Administration</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://klahanie.com/homeowners-association-obligations-and-compliance/">Homeowners Association Obligations and Compliance</a>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/board-of-directors/">Board of Directors</a></li>
+    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/association-forms/">Forms</a></li>
+    </ul>
+  </div>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://myhoabenefits.com/">My HOA Benefits</a></li>
+<li class="nav-item"><a class="nav-link" href="klahanie-magazine.html">Klahanie Magazine</a></li>
+<li class="nav-item"><a class="nav-link" href="http://klahanie.com/events/">Calendar of Events</a></li>
+<li class="nav-item"><a class="nav-link"  href="https://klahanie.com/contact-us/">Contact</a></li>
+</ul>
+</ul>
+
+
+    <div class="small ml-3 mt-10">4210 244th Place SE<br>
+      Sammamish, WA 98029<br>
+      425-392-4663<br>
+      425-392-4663<br>
+      Office hours: 
+      <ul>
+        <li>Monday-Thursday: 8:30am - 5:00pm</li>
+        <li>Friday:9:00am - 4:00pm</li>
+        <li>Closed weekends, and holidays</li>
+      </ul>
+      <a href='https://www.facebook.com/KlahanieAssociation/'><img src="fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
+    </div>
+  </nav>
+  <div class="main col-md-10">
+    <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Pool Rules</h1>
+  </header>
+
+  <div class="post-content">
+    <p>[fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” border_radius=”” box_shadow=”no” dimension_box_shadow=”” box_shadow_blur=”0” box_shadow_spread=”0” box_shadow_color=”” box_shadow_style=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” last=”no”][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=””]</p>
+<h1 style="text-align: left;" align="center"><u>KLAHANIE POOL RULES</u></h1>
+<p>[/fusion_text][/fusion_builder_column][fusion_builder_column type=”1_1” layout=”1_1” spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_image_id=”” background_color=”” background_image=”” background_position=”left top” undefined=”” background_repeat=”no-repeat” hover_type=”none” border_size=”0” border_color=”” border_style=”solid” border_position=”all” padding_top=”10” padding_right=”” padding_bottom=”10” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3” animation_offset=”” last=”no”][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=””]</p>
+<table id="wrapTable">
+<tbody>
+<tr>
+<td valign="top">
+<div id="sideIMG"></div></td>
+<td id="contentTD" valign="top" height="100%">
+<table border="0" width="100%" cellpadding="0">
+<tbody>
+<tr>
+<td height="100%">
+<table id="Table2" class="std-table" style="height: 1904px;" border="2" width="1095" cellspacing="0" cellpadding="12">
+<tbody>
+<tr>
+<td colspan="2" bgcolor="#e91e63"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#ffffff">
+<div>
+<div>
+
+The rules and requests made by lifesaving personnel must always be followed.
+
+The lifesaving personnel are in complete charge of the pool area and have the authority to ask anyone to leave the pool if that person disobeys the safety or general pool rules, or if his/her conduct is detrimental to the common pleasure of other patrons enjoying the pool.
+
+Admission to the pool may be denied for any of the following reasons:
+
+</div>
+</div>
+<ul>
+ 	<li>Under the influence of alcohol and/or drugs</li>
+ 	<li>Open sores, wounds, skin infections, and/or nasal or ear discharge</li>
+ 	<li>Any condition or evidence, which in the opinion of the manager will jeopardize the health and safety of the membership</li>
+</ul>
+<div>
+<div>
+
+Children under 5 years old or non-swimmers must be supervised by a responsible person, who is in the water and remains within arms reach of the child at all times.
+
+No person unable to swim across the pool may use the pool unattended.  Any adult or child may have to demonstrate his/her swimming ability before entering deep water.
+
+Any child in a life jacket must be accompanied by an adult in the water, within arms reach.  No one in a life jacket will be allowed in the deep end or to use the slide. LIFE JACKETS MUST BE U.S. COAST GUARD APPROVED.  There is a stamp on the inside of the life jacket to show that it is CG Approved.
+
+</div>
+</div>
+<ul>
+ 	<li>Infants/children not toilet trained must wear swim diapers under swim suits in order to prevent contamination.</li>
+ 	<li>Children must have their diapers changed on changing tables in the locker rooms.</li>
+ 	<li>Everyone must take a cleansing shower before using the pool.</li>
+ 	<li>All accidents should be reported to the lifesaving personnel immediately.  A first aid kit is available in the guard office.</li>
+ 	<li>In case of emergency, a 9-1-1 phone is located next to the boy's locker room door facing the pool deck.</li>
+ 	<li>NO RUNNING on the pool deck or in restrooms.</li>
+ 	<li>NO HORSEPLAY or ROUGH-HOUSING.</li>
+ 	<li>Do not hang on the lane lines or the rope.</li>
+ 	<li>Do not open skimmers.</li>
+ 	<li>Starting blocks may be used only in scheduled practices, competitions, and instruction when supervised by a coach or instructor.</li>
+ 	<li>Kickboards are for lap swimming, swim team, and swim lessons ONLY.</li>
+ 	<li>Jumps into the pool must be feet first and facing the pool.  NO SPINS, FLIPS, OR DIVES.</li>
+ 	<li>Inflatable beach balls or sponge balls are allowed during pool non-crowdedconditions and at the manager's discretion.</li>
+ 	<li>No smoking inside the pool area.</li>
+</ul>
+<div>
+<div>
+
+The Aquatics Manager or Lead Lifeguard may close the pool complex, or any portions of the pool complex for any safety or maintenance reasons.
+
+Animals are not allowed in the pool area, with the exception of service dogs.  Service dogs are allowed on deck, but not in the water.
+
+Food and beverages are permitted on the pool deck, but are not allowed to be consumed while in the pool.
+
+The follow items are not allowed in the pool:
+
+</div>
+</div>
+<ul>
+ 	<li>No water guns</li>
+ 	<li>No hard balls (such as tennis balls, footballs,etc.)</li>
+ 	<li>-No flotation devices (inner tubes, inflatablerafts, noodles, etc.)</li>
+ 	<li>-No kickboards or buoys during open swim times</li>
+ 	<li>No playing, climbing, or jumping off of the metal ladders or hand rails.</li>
+ 	<li>No sitting on  or riding on the shoulders of other patrons.</li>
+</ul>
+<div>
+<div>
+<p align="center"><strong><u>PROHIBITED ACTS/ITEMS</u></strong></p>
+<p style="text-align: center;">Running, unnecessary noise, boisterous/roughplay
+Shoulder-riding  /  Tennis balls  /  Squirt guns
+Animals of all kinds  /  Smoking
+Food or drink in not allowed in the water
+Glass containers  /  Alcoholic beverages  /  Diving
+Rafts or large flotation devices  /  Inappropriate swimming attire
+Disposable diapers</p>
+<p align="center"><strong><u>KLAHANIE GENERAL POOL RULES
+</u></strong>Pool use is reserved for Klahanie Association members in good standing and their guests only, unless otherwise scheduled.</p>
+
+</div>
+</div>
+<ul>
+ 	<li>All children 12 years old and under must be supervised and accompanied by a parent or guardian.</li>
+ 	<li>Patrons ages 13 - 17 years old must not use the pool alone and must be accompanied by a buddy.</li>
+ 	<li>Each Klahanie household may sponsor a maximum of 5 guests on any given day and meet the requirements of item above.</li>
+ 	<li>Guests privileges may be limited at any time by management.</li>
+ 	<li>Residents must sign guests in and all guests over the age of 5 years old will be required to pay a $3 guest fee.</li>
+ 	<li>All guests must be accompanied by their Klahanie sponsor at all times while at the pool.</li>
+ 	<li>If you have a communicable disease that can be transmitted by water or have been ill with diarrhea or vomiting in the last two weeks, do not use the pool.</li>
+ 	<li>Patrons with seizure, heart, or circulatory problems are advised to swim with a buddy.</li>
+ 	<li>Anyone under the influence of drugs or alcohol may not enter the pool facilities.</li>
+ 	<li>The wading pool is for children 5 years old and younger.  All children using the wading pool must be supervised by a parent or guardian.</li>
+</ul>
+<div>
+<div>
+
+<span style="font-family: arial;">We have changing areas available; however, we assume no responsibility for lost, damaged, or stolen property.</span>
+<p style="text-align: center;"><strong><u>POOL OCCUPANCY</u></strong></p>
+
+</div>
+</div>
+<ul>
+ 	<li style="text-align: center;">Maximum occupancy allowed:   Lakeside Pool- 140 persons   Mountainview Pool- 197 person</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div id="footerTable">
+<p align="center"></p>
+
+</div>
+<p>[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent=”no” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” parallax_speed=”0.3” video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9” video_loop=”yes” video_mute=”yes” overlay_color=”” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” padding_top=”” padding_bottom=”” padding_left=”” padding_right=””][fusion_builder_row][fusion_builder_column type=”1_1” layout=”1_1” background_position=”left top” background_color=”” border_size=”” border_color=”” border_style=”solid” border_position=”all” spacing=”yes” background_image=”” background_repeat=”no-repeat” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”0px” margin_bottom=”0px” class=”” id=”” animation_type=”” animation_speed=”0.3” animation_direction=”left” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” center_content=”no” last=”no” min_height=”” hover_type=”none” link=””][fusion_text] [/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]</p>
+
+  </div>
+
+</article>
+
+  </div>
+
+</body>
+
+</html>

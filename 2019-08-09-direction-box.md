@@ -1,0 +1,23 @@
+---
+layout: fusion_element
+title: Direction box
+date: 2019-08-09 07:52
+author: Klahanie
+comments: true
+categories: [elements]
+---
+[fusion_content_boxes  layout="clean-horizontal" columns="4" title_size="" heading_size="2" title_color="#ffffff" body_color="#ffffff" backgroundcolor="rgba(196,196,196,0)" icon="" iconflip="" iconrotate="" iconspin="no" iconcolor="" icon_circle="yes" icon_circle_radius="" circlecolor="#ffffff" circlebordersize="4" circlebordercolor="" outercirclebordersize="" outercirclebordercolor="" icon_size="" icon_hover_type="" hover_accent_color="#f44336" image="" image_id="" image_max_width="" link_type="" button_span="" link_area="box" link_target="" icon_align="left" animation_type="" animation_delay="" animation_offset="" animation_direction="left" animation_speed="0.3" margin_top="" margin_bottom="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id=""][fusion_content_box title="" backgroundcolor="rgba(255,255,255,0)" icon="fa-hand-point-right fas" iconflip="" iconrotate="" iconspin="no" iconcolor="" circlecolor="" circlebordersize="" circlebordercolor="" outercirclebordersize="" outercirclebordercolor="" image="" image_id="" image_max_width="" link="http://klahanie.com/pool-lap-waiver/" linktext="" link_target="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset=""]
+<h2>Lap Swim Waiver</h2>
+[/fusion_content_box][fusion_content_box title="" backgroundcolor="rgba(255,255,255,0)" icon="fa-hand-point-right fas" iconflip="" iconrotate="" iconspin="no" iconcolor="" circlecolor="" circlebordersize="" circlebordercolor="" outercirclebordersize="" outercirclebordercolor="" image="" image_id="" image_max_width="" link="http://klahanie.com/pool-rental/" linktext="" link_target="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset=""]
+<h2>Pool Rental Agreement</h2>
+<span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span>
+
+[/fusion_content_box][fusion_content_box title="" backgroundcolor="rgba(255,255,255,0)" icon="fa-hand-point-right fas" iconflip="" iconrotate="" iconspin="no" iconcolor="" circlecolor="" circlebordersize="" circlebordercolor="" outercirclebordersize="" outercirclebordercolor="" image="" image_id="" image_max_width="" link="http://klahanie.com/houseguest-pool-form/" linktext="" link_target="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset=""]
+<h2>Houseguest or Nanny Pool Form</h2>
+<span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span>
+
+[/fusion_content_box][fusion_content_box title="" backgroundcolor="rgba(255,255,255,0)" icon="fa-hand-point-right fas" iconflip="" iconrotate="" iconspin="no" iconcolor="" circlecolor="" circlebordersize="" circlebordercolor="" outercirclebordersize="" outercirclebordercolor="" image="" image_id="" image_max_width="" link="http://klahanie.com/vacation-house-check/" linktext="" link_target="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset=""]
+<h2>Vacation House Check</h2>
+<span style="color: #2c231d; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="color: #594a41; font-family: Railway , Arial, sans-serif; font-size: small;"><span style="font-size: small;"> </span></span></span>
+
+[/fusion_content_box][/fusion_content_boxes]
