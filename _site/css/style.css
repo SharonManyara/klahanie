@@ -16,6 +16,10 @@ div.main {
   align-items: center;
   height: 100px;
 }
+h1,h2,h3,h4 {
+  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+}
+
 .bignav a {
   color: white;
   size: 24px;

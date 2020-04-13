@@ -3,9 +3,13 @@ layout: page
 title: Announcements
 date: 2019-07-01 04:30
 author: Klahanie
-comments: true
-categories: []
 ---
+
+<ul>
+    {% for doc in site.announcements %}
+        <li><a href="{{ doc.url }}">{{doc.date}} {{ doc.title }}</a></li>
+    {% endfor %}
+</ul>
 
 * [Issaquah-Fall City Road Closure April 13-18 2020](http://klahanie.com/wp-content/uploads/2020/04/IFC-Closure_041020.pdf)
 
