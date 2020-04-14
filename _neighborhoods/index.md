@@ -5,7 +5,6 @@ date: 2019-07-23 21:12
 author: Klahanie
 categories: []
 ---
-# Neighborhoods
 
 {% for doc in site.neighborhoods %}
 {% if doc.title != "Neighborhoods" %}

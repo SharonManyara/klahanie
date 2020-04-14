@@ -38,7 +38,6 @@
 
     {% include nav.html %}
 
-
     <div class="small ml-3 mt-10">4210 244th Place SE<br>
       Sammamish, WA 98029<br>
       425-392-4663<br>
@@ -53,6 +52,9 @@
     </div>
   </nav>
   <div class="main col-md-10">
+    {% if page.show-title != nil %}
+    <h1 class="page-header">{{ page.title }}</h1>
+    {% endif %}
     {{ content }}
   </div>
 
