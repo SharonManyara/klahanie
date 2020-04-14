@@ -23,8 +23,26 @@
           if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
           $(this).parent().addClass("active");
      })
-});
+    });
   </script>
+  
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Winslow Place | Klahanie Association</title>
+<meta name="generator" content="Jekyll v3.5.2" />
+<meta property="og:title" content="Winslow Place" />
+<meta name="author" content="Klahanie" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Winslow Place has 106 single family homes, and contains a park with a play structure with an open field area and a green belt area on three sides of the park. This area is within easy walking distance of the Mountainview Pool and park area that contains a pool, play structure, two tennis courts, a basketball court, a pickle ball court, the Powerline walking trail and a Park and Ride area." />
+<meta property="og:description" content="Winslow Place has 106 single family homes, and contains a park with a play structure with an open field area and a green belt area on three sides of the park. This area is within easy walking distance of the Mountainview Pool and park area that contains a pool, play structure, two tennis courts, a basketball court, a pickle ball court, the Powerline walking trail and a Park and Ride area." />
+<link rel="canonical" href="http://localhost:4000/neighborhoods/winslow-place.html" />
+<meta property="og:url" content="http://localhost:4000/neighborhoods/winslow-place.html" />
+<meta property="og:site_name" content="Klahanie Association" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-10-12T17:34:00-07:00" />
+<script type="application/ld+json">
+{"description":"Winslow Place has 106 single family homes, and contains a park with a play structure with an open field area and a green belt area on three sides of the park. This area is within easy walking distance of the Mountainview Pool and park area that contains a pool, play structure, two tennis courts, a basketball court, a pickle ball court, the Powerline walking trail and a Park and Ride area.","@type":"BlogPosting","url":"http://localhost:4000/neighborhoods/winslow-place.html","headline":"Winslow Place","dateModified":"2019-10-12T17:34:00-07:00","datePublished":"2019-10-12T17:34:00-07:00","author":{"@type":"Person","name":"Klahanie"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/neighborhoods/winslow-place.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
 </head>
 
 <body class="row">
@@ -44,7 +62,7 @@
       <ul class="nav ml-3">
         <li class="nav-item"><a class="nav-link" href="http://localhost:4000/about-klahanie.html">About Klahanie</a></li>
         <li class="nav-item"><a class="nav-link" href="http://localhost:4000/neighborhoods/">Neighborhoods</a></li>
-        <li class="nav-item"><a class="nav-link" href="https://klahanie.com/shopping-center/">Shopping Center</a></li>
+        <li class="nav-item"><a class="nav-link" href="http://localhost:4000/shopping-center.html">Shopping Center</a></li>
         <li class="nav-item"><a class="nav-link" href="https://klahanie.com/buying-a-home/">Buying or Selling a Home</a></li>
         <li class="nav-item"><a class="nav-link" href="https://klahanie.com/renting-your-home/">Renting Your Home</a></li>
         <li class="nav-item"><a class="nav-link" href="https://klahanie.com/about-klahanie-forms/">Forms</a></li>
@@ -75,7 +93,7 @@
       <li class="nav-item"><a class="nav-link" href="https://klahanie.com/the-association/">Overview</a></li>
       <li class="nav-item"><a class="nav-link" href="https://klahanie.com/administration/">Administration</a></li>
     <li class="nav-item"><a class="nav-link" href="https://klahanie.com/homeowners-association-obligations-and-compliance/">Homeowners Association Obligations and Compliance</a>
-    <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/board-of-directors/">Board of Directors</a></li>
+    <li class="nav-item"><a class="nav-link"  href="http://localhost:4000/board-of-directors.html">Board of Directors</a></li>
     <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/association-forms/">Forms</a></li>
     </ul>
   </div>
@@ -83,6 +101,9 @@
 <li class="nav-item"><a class="nav-link" href="http://localhost:4000/discounts/">Discounts</a></li>
 <li class="nav-item"><a class="nav-link" href="klahanie-magazine.html">Klahanie Magazine</a></li>
 <li class="nav-item"><a class="nav-link" href="http://klahanie.com/events/">Calendar of Events</a></li>
+<li class="nav-item">
+  <a class='nav-link' data-toggle="modal" data-target="#myModal">Search</a>
+</li>
 <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/contact-us/">Contact</a></li>
 </ul>
 </ul>
@@ -117,7 +138,40 @@
 </article>
 
   </div>
+  <!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
 
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Search</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <input type="text" class="form-control" id="search-input" placeholder="Search blog posts..">
+        <ul id="results-container" class='mt-4'></ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+  <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
+  <script type="text/javascript">
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: 'search.json',
+      searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+      noResultsText: 'No results found',
+      limit: 10,
+      fuzzy: false,
+      exclude: ['Welcome']
+    })
+  </script>
 </body>
 
 </html>

@@ -4,6 +4,7 @@ title: Neighborhoods
 date: 2019-07-23 21:12
 author: Klahanie
 categories: []
+show-title: true
 ---
 
 {% for doc in site.neighborhoods %}

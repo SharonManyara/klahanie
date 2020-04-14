@@ -30,6 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - octopress-debugger
+  - jekyll-seo-tag
 
 collections:  
   announcements:
@@ -41,6 +42,7 @@ collections:
   discounts: 
     output: true
     url: discounts
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
