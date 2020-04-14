@@ -51,8 +51,8 @@
       <a href='https://www.facebook.com/KlahanieAssociation/'><img src="{{site.url}}/images/fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
     </div>
   </nav>
-  <div class="main col-md-10">
-    {% if page.show-title != nil %}
+  <div class="main col-md-10 pr-4">
+    {% if page.show-title == true %}
     <h1 class="page-header">{{ page.title }}</h1>
     {% endif %}
     {{ content }}

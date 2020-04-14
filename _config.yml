@@ -38,6 +38,9 @@ collections:
   neighborhoods:
     output: true
     url: neighborhoods
+  discounts: 
+    output: true
+    url: discounts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
