@@ -1,11 +1,67 @@
 [
   
     {
+      "title"    : "Klahanie Park Update",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/announcements/2019-05-27-1159-2.html",
+      "date"     : "2019-05-27 03:59:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Klahanie Graduating Seniors",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/announcements/2019-05-27-klahanie-graduating-seniors.html",
+      "date"     : "2019-05-27 08:20:00 -0700"
+    } ,
+  
+    {
       "title"    : "Pool Employment",
       "category" : "announcements",
       "tags"     : "",
       "url"      : "/announcements/2019-10-22-pool-jobs.html",
       "date"     : "2019-10-22 10:43:00 -0700"
+    } ,
+  
+    {
+      "title"    : "POSTPONED Klahanie Holi Celebration",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/announcements/2020-01-23-klahanie-holi-celebration.html",
+      "date"     : "2020-01-23 15:34:00 -0800"
+    } ,
+  
+    {
+      "title"    : "CANCELED Klahanie Easter Egg Hunt",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/announcements/2020-01-23-klahanie-easter-egg-hunt.html",
+      "date"     : "2020-01-23 15:36:00 -0800"
+    } ,
+  
+    {
+      "title"    : "CANCELED Klahanie Recycle Event",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/announcements/2020-01-23-klahanie-recycle-event.html",
+      "date"     : "2020-01-23 15:41:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Summer Movies at Lakeside Park",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/announcements/2020-01-23-summer-movies-at-lakeside-park-3.html",
+      "date"     : "2020-01-23 17:29:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Summer Movies at Lakeside Park",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/announcements/2020-01-23-summer-movies-at-lakeside-park-4.html",
+      "date"     : "2020-01-23 17:30:00 -0800"
     } ,
   
     {
@@ -17,42 +73,34 @@
     } ,
   
     {
-      "title"    : "Michael Shane",
+      "title"    : "Announcements 3-25, 2020",
       "category" : "",
       "tags"     : "",
-      "url"      : "/staff/2019-05-07-michael-shane.html",
-      "date"     : "2019-05-07 06:18:00 -0700"
+      "url"      : "/announcements/2020-03-25-announcements-3-25-2020.html",
+      "date"     : "2020-03-25 22:09:00 -0700"
     } ,
   
     {
-      "title"    : "Michael Theiling",
+      "title"    : "Michael Shane",
       "category" : "",
       "tags"     : "",
-      "url"      : "/staff/2019-05-07-michael-thrilling.html",
-      "date"     : "2019-05-07 06:30:00 -0700"
+      "url"      : "/staff/michael-shane.html",
+      "date"     : "2019-05-07 06:18:00 -0700"
     } ,
   
     {
       "title"    : "Steffi Reuter",
       "category" : "",
       "tags"     : "",
-      "url"      : "/staff/2019-05-07-steffi-reuter.html",
+      "url"      : "/staff/steffi-reuter.html",
       "date"     : "2019-05-07 06:40:00 -0700"
-    } ,
-  
-    {
-      "title"    : "Fred Nystrom",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/staff/2019-05-07-fred-nystrom.html",
-      "date"     : "2019-05-07 07:25:00 -0700"
     } ,
   
     {
       "title"    : "Haley Davies",
       "category" : "",
       "tags"     : "",
-      "url"      : "/staff/2019-05-07-haley-davies.html",
+      "url"      : "/staff/haley-davies.html",
       "date"     : "2019-05-07 07:33:00 -0700"
     } ,
   
@@ -60,8 +108,16 @@
       "title"    : "Steve Durr",
       "category" : "",
       "tags"     : "",
-      "url"      : "/staff/2019-05-07-steve-durr.html",
+      "url"      : "/staff/steve-durr.html",
       "date"     : "2019-05-07 07:46:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Michael Theiling",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/staff/michael-theiling.html",
+      "date"     : "2019-05-09 06:30:00 -0700"
     } ,
   
     {
@@ -374,6 +430,38 @@
       "tags"     : "",
       "url"      : "/discounts/golden-rule-lawn-care.html",
       "date"     : "2020-01-26 20:27:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Neighborhood Watch and Emergency Preparedness",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/neighborhood-watch-and-emergency-preparedness.html",
+      "date"     : "2019-06-10 07:25:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Pea Patch",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/pea-patch.html",
+      "date"     : "2019-06-10 07:51:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Clubs and Groups",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/clubs-and-groups.html",
+      "date"     : "2019-06-10 07:55:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Natural Areas Association of Klahanie (NAAK)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/natural-areas-association-of-klahanie-naak.html",
+      "date"     : "2019-07-01 07:14:00 -0700"
     } 
   
 ]
