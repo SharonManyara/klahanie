@@ -4,9 +4,6 @@ title: Announcements
 date: 2019-07-01 04:30
 author: Klahanie
 ---
-
-
-
 <ul>
     {% for doc in site.announcements %}
         <li><a href="{{ doc.url }}">{{doc.date}} {{ doc.title }}</a></li>

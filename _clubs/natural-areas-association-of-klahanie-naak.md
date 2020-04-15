@@ -8,10 +8,8 @@ categories: [clubs]
 link: true
 description: NAAK are careful stewards of Klahanie's natural areas
 thumbnail: /images/naak/Logo.jpg    
+banner: /images/naak/NAAK-cropped.jpg
 ---
-
-<img src="{{site.url}}/images/naak/NAAK-cropped.jpg" class="img-fluid">
-
 ### Natural Areas Association of Klahanie (NAAK)
 
 NAAK is a volunteer group of Klahanie residents committed to keeping Klahanie's natural areas healthy while providing a diverse habitat that protects and preserves wildlife.

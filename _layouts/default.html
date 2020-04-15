@@ -29,14 +29,13 @@
   {% seo %}
 </head>
 
-<body class="row mx-auto">
+<body class="row p-0">
   <nav class="sidebar col-sm-2 p-4">
     <div class="widget widget_media_image" style="margin-left:-10px;">
-      <a href="https://klahanie.com"><img 
-          src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"
+      <a href="{{site.url}}"><img 
+          src="{{site.url}}/images/Klahanie-Logo-for-Web-small-2.png"
           class="img col-sm-10" alt="Klahanie Logo"
-          style="max-width: 100%; height: auto;"
-          data-orig-src="https://klahanie.com/wp-content/uploads/2019/08/Klahanie-Logo-for-Web-small-2.png"></a></div>
+          style="max-width: 100%; height: auto;"></a></div>
 
     {% include nav.html %}
 
@@ -53,11 +52,16 @@
       <a href='https://www.facebook.com/KlahanieAssociation/'><img src="{{site.url}}/images/fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
     </div>
   </nav>
-  <div class="main col-sm-9 ml-4">
+  <div class="main col-sm-9">
     {% if page.show-title == true %}
     <h1 class="page-header">{{ page.title }}</h1>
     {% endif %}
-    {{ content }}
+    {% if page.banner %}
+    <img src="{{site.url}}{{page.banner}}" class="img-fluid w-100">
+    {% endif %}
+    <div class="mt-4">
+      {{ content }}
+    </div>
   </div>
   <!-- Modal -->
 <div id="myModal" class="modal fade" role="dialog">

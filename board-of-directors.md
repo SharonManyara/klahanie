@@ -5,7 +5,6 @@ date: 2015-03-12 14:10
 author: Klahanie
 categories: []
 ---
-
 # Board of Directors
 
 The board meets every last Tuesday evening at 7:00 in the office. All meetings are open to members.

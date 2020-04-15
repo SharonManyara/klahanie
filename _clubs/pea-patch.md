@@ -7,10 +7,8 @@ comments: true
 categories: [clubs]
 link: true
 description: Even if you have a small yard, you can keep a garden at the Klahanie Pea Patch. 
+banner: /images/Pea-Patch-Sign.jpg
 ---
-
-<img class="img-fluid text-center w-100" src="{{site.url}}/images/Pea-Patch-Sign.jpg" alt="Pea Patch Squash">
-
 If you enjoy growing things but lack the space to do as much as you would like, Pea Patch gardening might be the answer for you. Pea Patch gardening is a marvelous opportunity to enjoy the company of other people who like to work the soil, and to have fun producing something to show for your efforts.
 
 The Pea Patch is used for recreational vegetables and flower gardening for family use, and also for growing vegetables for local charities. It's located down the gravel road behind Sundance and is run by volunteers who live in Klahanie. It is open to all Klahanie residents and plots can be rented annually for a small fee.

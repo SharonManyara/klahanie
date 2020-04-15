@@ -6,10 +6,8 @@ author: Klahanie
 comments: true
 categories: []
 hide-title: true
+banner: /images/yellow-lake.jpg
 ---
-
-<img src="{{site.url}}/images/yellow-lake.jpg" class="img-fluid" style="margin-top:-4px;">
-
 Located on a forested plateau 18-miles east of Seattle, Klahanie comprises 900 acres containing 1,967 single family homes, 718 multifamily residences, and 405 apartment units. The residents are surrounded by natural areas in every direction, including 30-miles of groomed trails, a scenic alpine lake, two swimming pools, three tennis and four basketball courts, four Pickle Ball/ Badminton courts and baseball fields.
 
 Originally launched in 1984, Klahanie grew in stages over the following decade due to the planned involvement of several established home builders, there exists is a variety of home designs, sizes and features that have continued to be very attractive to families 35-years later.

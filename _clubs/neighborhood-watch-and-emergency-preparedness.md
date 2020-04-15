@@ -8,9 +8,8 @@ categories: [clubs]
 link: true
 description: Neighborhood Watch helps us keep our property safe. 
 thumbnail: /images/Neighborhood-Watch.png
+banner: /images/family-playing-outdoors.jpg
 ---
-
-<img src="{{site.url}}/images/family-playing-outdoors.jpg" class="img-fluid">
 ### Neighborhood Watch &amp; Emergency Preparedness 
 
 <blockquote class="blockquote">If You See Something, Say Something</blockquote>
