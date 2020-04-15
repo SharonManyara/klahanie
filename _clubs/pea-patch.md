@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Pea Patch
-date: 2019-06-10 07:51
+date: 2019-06-09 07:51
 author: Klahanie
 comments: true
 categories: [clubs]
+link: true
+description: Even if you have a small yard, you can keep a garden at the Klahanie Pea Patch. 
 ---
 
 <img class="img-fluid text-center w-100" src="{{site.url}}/images/Pea-Patch-Sign.jpg" alt="Pea Patch Squash">

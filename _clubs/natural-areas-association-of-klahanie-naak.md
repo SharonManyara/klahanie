@@ -5,11 +5,12 @@ date: 2019-07-01 07:14
 author: Klahanie
 comments: true
 categories: [clubs]
+link: true
+description: NAAK are careful stewards of Klahanie's natural areas
+thumbnail: /images/naak/Logo.jpg    
 ---
 
 <img src="{{site.url}}/images/naak/NAAK-cropped.jpg" class="img-fluid">
-
-
 
 ### Natural Areas Association of Klahanie (NAAK)
 

@@ -5,6 +5,9 @@ date: 2019-06-10 07:25
 author: Klahanie
 comments: true
 categories: [clubs]
+link: true
+description: Neighborhood Watch helps us keep our property safe. 
+thumbnail: /images/Neighborhood-Watch.png
 ---
 
 <img src="{{site.url}}/images/family-playing-outdoors.jpg" class="img-fluid">
