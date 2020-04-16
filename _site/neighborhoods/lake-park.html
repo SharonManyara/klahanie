@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Klahanie Association - Lake Park</title>
+  <title>Lake Park - Klahanie Association</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
@@ -45,15 +45,16 @@
 
 </head>
 
-<body class="row p-0">
-  <nav class="sidebar col-sm-2 p-4">
-    <div class="widget widget_media_image" style="margin-left:-10px;">
-      <a href="http://localhost:4000"><img 
-          src="http://localhost:4000/images/Klahanie-Logo-for-Web-small-2.png"
-          class="img col-sm-10" alt="Klahanie Logo"
-          style="max-width: 100%; height: auto;"></a></div>
+<body class="row p-0 mx-auto">
 
-    <ul id="nav" class="nav flex-column mt-4">
+    <nav class="sidebar col-sm-2 p-4">
+  <div class="widget widget_media_image" style="margin-left:-10px;">
+    <a href="http://localhost:4000"><img 
+        src="http://localhost:4000/images/Klahanie-Logo-for-Web-small-2.png"
+        class="img col-sm-10" alt="Klahanie Logo"
+        style="max-width: 100%; height: auto;"></a></div>
+
+<ul id="nav" class="nav flex-column mt-4">
   <li class="nav-item"><a class="nav-link" href="http://localhost:4000/announcements.html">Announcements</a></li>
   <li class="nav-item">
     <a class="nav-link dropdown-toggle" href="#item1" data-toggle="collapse" data-parent="nav">Neighborhood</a>
@@ -106,24 +107,31 @@
 <li class="nav-item"><a class="nav-link"  href="https://klahanie.com/contact-us/">Contact</a></li>
 </ul>
 </ul>
+<div class="small ml-3 mt-10">4210 244th Place SE<br>
+  Sammamish, WA 98029<br>
+  <a href="tel:425-392-4663">(425) 392-4663</a><br>
+  Office hours: 
+  <ul>
+    <li>Monday-Thursday: 8:30am - 5:00pm</li>
+    <li>Friday:9:00am - 4:00pm</li>
+    <li>Closed weekends, and holidays</li>
+  </ul>
+  <a href='https://www.facebook.com/KlahanieAssociation/'><img src="http://localhost:4000/images/fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
+</div>
+</nav>
 
-    <div class="small ml-3 mt-10">4210 244th Place SE<br>
-      Sammamish, WA 98029<br>
-      425-392-4663<br>
-      425-392-4663<br>
-      Office hours: 
-      <ul>
-        <li>Monday-Thursday: 8:30am - 5:00pm</li>
-        <li>Friday:9:00am - 4:00pm</li>
-        <li>Closed weekends, and holidays</li>
-      </ul>
-      <a href='https://www.facebook.com/KlahanieAssociation/'><img src="http://localhost:4000/images/fb.png" class="img" width="100"  alt="Find us on Facebook"></a>
+
+  <div class="main col-sm-10 p-0">
+    <div class="header">
+      
+        
+        
+        
+      
     </div>
-  </nav>
-  <div class="main col-sm-9">
     
     
-    <div class="mt-4">
+    <div class="p-4">
       <article class="post">
 
   <header class="post-header">
@@ -140,40 +148,39 @@
 
     </div>
   </div>
-  <!-- Modal -->
-<div id="myModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="modal-title">Search</h4>
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
+    <!-- Modal -->
+  <div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+  
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Search</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <input type="text" class="form-control" id="search-input" placeholder="Search blog posts..">
+          <ul id="results-container" class='mt-4'></ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
       </div>
-      <div class="modal-body">
-        <input type="text" class="form-control" id="search-input" placeholder="Search blog posts..">
-        <ul id="results-container" class='mt-4'></ul>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
+  
     </div>
-
   </div>
-</div>
-  <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
-  <script type="text/javascript">
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: 'http://localhost:4000/search.json',
-      searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-      noResultsText: 'No results found',
-      limit: 10,
-      fuzzy: false,
-      exclude: ['Welcome']
-    })
-  </script>
-</body>
-
+    <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
+    <script type="text/javascript">
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: 'http://localhost:4000/search.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+    </script>
+  </body>
 </html>

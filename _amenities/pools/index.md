@@ -8,7 +8,7 @@ categories: [pool]
 ---
 ## Klahanie Pools
 
-<div class="alert alert-warning clearfix">Note: Klahanie Pools are currently closed due to the COVID-19 pandemic until further notice.
+<div class="alert alert-warning clearfix">Note: Klahanie Pools are closed due to the COVID-19 pandemic until further notice.
 </div>
 
 <img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4">

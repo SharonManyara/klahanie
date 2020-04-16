@@ -4,7 +4,7 @@ title: Mountainview Pool
 date: 2019-11-20 13:13
 author: Klahanie
 comments: true
-categories: []
+categories: [pool]
 ---
 
 ### Mountainview Pool Schedule
