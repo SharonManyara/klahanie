@@ -433,6 +433,14 @@
     } ,
   
     {
+      "title"    : "Pea Patch",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/pea-patch.html",
+      "date"     : "2019-06-09 07:51:00 -0700"
+    } ,
+  
+    {
       "title"    : "Neighborhood Watch and Emergency Preparedness",
       "category" : "",
       "tags"     : "",
@@ -441,18 +449,10 @@
     } ,
   
     {
-      "title"    : "Pea Patch",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/clubs/pea-patch.html",
-      "date"     : "2019-06-10 07:51:00 -0700"
-    } ,
-  
-    {
       "title"    : "Clubs and Groups",
       "category" : "",
       "tags"     : "",
-      "url"      : "/clubs/clubs-and-groups.html",
+      "url"      : "/clubs/index.html",
       "date"     : "2019-06-10 07:55:00 -0700"
     } ,
   
@@ -462,6 +462,366 @@
       "tags"     : "",
       "url"      : "/clubs/natural-areas-association-of-klahanie-naak.html",
       "date"     : "2019-07-01 07:14:00 -0700"
+    } ,
+  
+    {
+      "title"    : "NAAK / EarthCorps Projects for 2019",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/naak/naak-earthcorps-projects-for-2019.html",
+      "date"     : "2019-07-14 02:25:00 -0700"
+    } ,
+  
+    {
+      "title"    : "NAAK History and Accomplishments",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/naak/naak-history-and-accomplishments.html",
+      "date"     : "2019-07-14 03:07:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Yellow Lake Wildlife",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/naak/yellow-lake-wildlife.html",
+      "date"     : "2019-07-14 04:44:00 -0700"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Klahanie Recycle Event",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/events/2019-05-27-klahanie-recycle-event.html",
+      "date"     : "2019-05-27 08:13:00 -0700"
+    } ,
+  
+    {
+      "title"    : "1st Annual Klahanie Holiday Lighting Event",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/events/2019-12-09-1st-annual-klahanie-holiday-lighting-event.html",
+      "date"     : "2019-12-09 14:58:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Klahanie Lunar New Year",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/events/2019-12-19-klahanie-lunar-new-year.html",
+      "date"     : "2019-12-19 11:30:00 -0800"
+    } ,
+  
+    {
+      "title"    : "CANCELED Klahanie Community Garage Sales",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/events/2020-01-23-klahanie-community-garage-sales.html",
+      "date"     : "2020-01-23 15:39:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Klahanie 5K Summer Dash",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/events/2020-01-23-klahanie-5k-summer-dash.html",
+      "date"     : "2020-01-23 15:49:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Klahanie Independence Day Parade",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/events/2020-01-23-klahanie-independence-day-parade.html",
+      "date"     : "2020-01-23 15:56:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Klahanie Pools",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/amenities/pools/index.html",
+      "date"     : "2019-05-28 05:11:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Tennis Information",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/amenities/tennis-information.html",
+      "date"     : "2019-05-28 06:04:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Klahanie Neighborhood Patrol",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/amenities/klahanie-neighborhood-patrol.html",
+      "date"     : "2019-06-10 03:42:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Swim Lessons",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/amenities/pools/swim-lessons.html",
+      "date"     : "2019-06-10 06:01:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Lakeside Pool Schedule",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/amenities/pools/lakeside-pool.html",
+      "date"     : "2019-07-15 10:01:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Mountainview Pool",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/amenities/pools/mountainview-pool.html",
+      "date"     : "2019-11-20 13:13:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Klahanie Magazine - Winter 2012",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/magazine/2018-10-01.html",
+      "date"     : "2018-10-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Klahanie Magazine - March 2019",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/magazine/2019-03-01.html",
+      "date"     : "2019-03-01 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Klahanie Magazine - May 2019",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/magazine/2019-05-01.html",
+      "date"     : "2019-05-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Klahanie Magazine - July 2019",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/magazine/2019-07-01.html",
+      "date"     : "2019-07-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Klahanie Magazine - September 2019",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/magazine/2019-09-01.html",
+      "date"     : "2019-09-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Klahanie Magazine - November 2019",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/magazine/2019-11-01.html",
+      "date"     : "2019-11-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Klahanie Magazine - January 2020",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/magazine/2020-01-01.html",
+      "date"     : "2020-01-01 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Klahanie Magazine - April 2020",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/magazine/2020-04-01.html",
+      "date"     : "2020-03-01 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "",
+      "date"     : ""
     } 
   
 ]

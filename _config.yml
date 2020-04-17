@@ -46,7 +46,15 @@ collections:
   clubs:
     output: true
     url: clubs
-  
+  events:
+    output: true
+    url: events
+  amenities: 
+    output: true
+    url: amenities
+  magazine:
+    output: true
+    url: magazine
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
