@@ -18,10 +18,13 @@
   <link rel="stylesheet" href="/css/style.css" />
   <script type="text/javascript">
     $(function() {
-     var pgurl = window.location.href.substr(window.location.href.lastIndexOf("/")+1);
+     var pgurl = window.location.href;
      $("li.nav-item a.nav-link").each(function(){
-          if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
-          $(this).parent().addClass("active");
+          if($(this).attr("href") == pgurl || $(this).attr("href") == '' ) {
+            $(this).addClass("active");
+            $(this).parents("div.collapse").addClass("show");
+          }
+          
      })
     });
   </script>
@@ -34,13 +37,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
 <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
-<link rel="canonical" href="http://localhost:4000/2019-08-04-shopping-center.html" />
-<meta property="og:url" content="http://localhost:4000/2019-08-04-shopping-center.html" />
+<link rel="canonical" href="http://localhost:4000/shopping-center.html" />
+<meta property="og:url" content="http://localhost:4000/shopping-center.html" />
 <meta property="og:site_name" content="Klahanie Association" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-08-04T02:55:00-07:00" />
 <script type="application/ld+json">
-{"description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@type":"BlogPosting","url":"http://localhost:4000/2019-08-04-shopping-center.html","headline":"Shopping Center","dateModified":"2019-08-04T02:55:00-07:00","datePublished":"2019-08-04T02:55:00-07:00","author":{"@type":"Person","name":"Klahanie"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2019-08-04-shopping-center.html"},"@context":"https://schema.org"}</script>
+{"description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@type":"BlogPosting","url":"http://localhost:4000/shopping-center.html","headline":"Shopping Center","dateModified":"2019-08-04T02:55:00-07:00","datePublished":"2019-08-04T02:55:00-07:00","author":{"@type":"Person","name":"Klahanie"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/shopping-center.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
