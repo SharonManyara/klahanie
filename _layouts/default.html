@@ -27,8 +27,11 @@
       {% endif %}
     </div>
     
-    
     <div class="p-4">
+      {% if page.categories contains 'announcements' %}
+        <p class="lead mt-n4">{{ page.date | date: '%b %d, %Y' }}</p>
+      {% endif %}
+  
       {{ content }}
     </div>
   </div>
