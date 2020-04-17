@@ -16,9 +16,8 @@ categories: []
 	<div class="col-sm-5  align-self-center justify-content-center">
 		<h2 class="text-center"><a href="{{site.url}}/volunteer-committees.html">Committees</a></h2>
 		<h2 class="text-center"><a href="https://yourvolunteers.com/vol?rz4teoaqi65vdk3j1uj7kamhwygsy">Volunteer for Events</a></h2>
-
 	</div>
-	<div class="col-sm-7 p-0 m-0">
+	<div class="col-sm-7 p-0 m-0 text-right">
 		<img src="{{site.url}}/images/volunteers-CROPPED-Larger.jpg">
 	</div>
 </div>

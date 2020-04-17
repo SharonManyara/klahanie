@@ -118,10 +118,14 @@ h1, h2, h3, h4 {
   padding-bottom:4em;
 }
 .committee-row img {
-  max-height:360px;
-  vertical-align: middle;
+  max-height:400px;
+  vertical-align: middle;  
   overflow: hidden;
 }
 .committee-row {
   overflow:hidden;
+}
+.footer {
+  background-color: rgba(246, 249, 240,1);
+  color:#333;
 }

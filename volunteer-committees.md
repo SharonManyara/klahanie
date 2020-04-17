@@ -1,15 +1,12 @@
 ---
 layout: default
-title: Volunteer Committees
+title: Volunteer for Committees
 date: 2020-02-17 10:55
 author: Klahanie
 comments: true
 categories: []
-show-title: false
+show-title: true
 ---
-
-# Choosing the Right Place to Volunteer
-
 A part of the benefit of living in an HOA is the ability to be personally involved in the association planning and guidance. This is done through finding an avenue where you want to volunteer your time and expertise to help on one of the active committees.
 
 The list below will describe the committee options so that you can select where and how you want to contribute to the management of the community. Our Governing documents set forth just two mandatory, or standing committees, Architectural Controls and Fine. All the others are set up to enhance the quality of life for all residents.

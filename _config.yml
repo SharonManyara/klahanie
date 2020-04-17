@@ -27,11 +27,19 @@ paginate: 10
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+  syntax_highlighter: rouge
 theme: minima
 plugins:
   - jekyll-feed
   - octopress-debugger
   - jekyll-seo-tag
+  - jekyll-last-modified-at
+  
+# Enable or disable heading anchors
+heading_anchors: true
 
 collections:  
   announcements:
