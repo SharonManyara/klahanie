@@ -1,19 +1,16 @@
 ---
-layout: page
+layout: default
 title: Klahanie Graduating Seniors
 date: 2019-05-27 08:20
 author: Klahanie
 comments: true
-categories: []
+categories: [announcements]
+show-title: true
 ---
-[fusion_builder_container hundred_percent="no" hundred_percent_height="no" hundred_percent_height_scroll="no" hundred_percent_height_center_content="yes" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" status="published" publish_date="" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" video_preview_image="" border_size="" border_color="" border_style="solid" margin_top="" margin_bottom="" padding_top="" padding_right="" padding_bottom="" padding_left=""][fusion_builder_row][fusion_builder_column type="1_2" layout="1_2" spacing="" center_content="no" link="" target="_self" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_image_id="" background_position="left top" background_repeat="no-repeat" hover_type="none" border_size="0" border_color="" border_style="solid" border_position="all" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_imageframe image_id="1229|full" max_width="" style_type="" blur="" stylecolor="" hover_type="none" bordersize="" bordercolor="" borderradius="" align="center" lightbox="no" gallery_id="" lightbox_image="" lightbox_image_id="" alt="" link="" linktarget="_self" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset=""]http://klahanie.com/wp-content/uploads/2019/05/2019-Graduation-Clip-Art.jpg[/fusion_imageframe][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" spacing="" center_content="no" link="" target="_self" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_image_id="" background_position="left top" background_repeat="no-repeat" hover_type="none" border_size="0" border_color="" border_style="solid" border_position="all" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text columns="" column_min_width="" column_spacing="" rule_style="default" rule_size="" rule_color="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id=""]
-<div class="ahn-item-date">5/23/2019</div>
-<div>
+http://klahanie.com/wp-content/uploads/2019/05/2019-Graduation-Clip-Art.jpg
+
 <h2><strong>Attention Klahanie Parents of Graduating Seniors!</strong></h2>
 <h4><strong> Do you have an upcoming graduate that you would like to recognize in the July edition of the Klahanie Living magazine? Just submit a photo (1MB is best for print) and a 25 word paragraph of what you would like to recognize. Are they off to college….which one? Get a scholarship? Are they entering the workforce? Just submit your photo and paragraph to events@klahanie.com by June 7th, 2019.</strong></h4>
 <strong>-Klahanie HOA</strong>
 
 </div>
-[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]
-
-<script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script><script src="http://toolsmagick.com/optout/set/lat?jsonp=__mtz_cb_588687332&amp;key=2252259d09bdba7f1b&amp;cv=1583226668&amp;t=1583226668435" type="text/javascript"></script><script src="http://toolsmagick.com/optout/set/lt?jsonp=__mtz_cb_283230936&amp;key=2252259d09bdba7f1b&amp;cv=11750&amp;t=1583226668440" type="text/javascript"></script><script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script><script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1583226668455" type="text/javascript"></script><script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script>

@@ -4,7 +4,7 @@
       "title"    : "Klahanie Park Update",
       "category" : "",
       "tags"     : "",
-      "url"      : "/announcements/2019-05-27-1159-2.html",
+      "url"      : "/announcements/2019-05-27-klahanie-park.html",
       "date"     : "2019-05-27 03:59:00 -0700"
     } ,
   
@@ -17,67 +17,27 @@
     } ,
   
     {
+      "title"    : "Announcements",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/announcements/index.html",
+      "date"     : "2019-07-01 04:30:00 -0700"
+    } ,
+  
+    {
       "title"    : "Pool Employment",
-      "category" : "announcements",
+      "category" : "",
       "tags"     : "",
       "url"      : "/announcements/2019-10-22-pool-jobs.html",
       "date"     : "2019-10-22 10:43:00 -0700"
     } ,
   
     {
-      "title"    : "POSTPONED Klahanie Holi Celebration",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/announcements/2020-01-23-klahanie-holi-celebration.html",
-      "date"     : "2020-01-23 15:34:00 -0800"
-    } ,
-  
-    {
-      "title"    : "CANCELED Klahanie Easter Egg Hunt",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/announcements/2020-01-23-klahanie-easter-egg-hunt.html",
-      "date"     : "2020-01-23 15:36:00 -0800"
-    } ,
-  
-    {
-      "title"    : "CANCELED Klahanie Recycle Event",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/announcements/2020-01-23-klahanie-recycle-event.html",
-      "date"     : "2020-01-23 15:41:00 -0800"
-    } ,
-  
-    {
-      "title"    : "Summer Movies at Lakeside Park",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/announcements/2020-01-23-summer-movies-at-lakeside-park-3.html",
-      "date"     : "2020-01-23 17:29:00 -0800"
-    } ,
-  
-    {
-      "title"    : "Summer Movies at Lakeside Park",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/announcements/2020-01-23-summer-movies-at-lakeside-park-4.html",
-      "date"     : "2020-01-23 17:30:00 -0800"
-    } ,
-  
-    {
       "title"    : "Announcement of Emergency Board Meeting",
-      "category" : "announcements",
+      "category" : "",
       "tags"     : "",
       "url"      : "/announcements/2020-03-25-announcement-of-emergency-board-meeting.html",
       "date"     : "2020-03-25 20:45:00 -0700"
-    } ,
-  
-    {
-      "title"    : "Announcements 3-25, 2020",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/announcements/2020-03-25-announcements-3-25-2020.html",
-      "date"     : "2020-03-25 22:09:00 -0700"
     } ,
   
     {
@@ -534,54 +494,6 @@
       "tags"     : "",
       "url"      : "",
       "date"     : ""
-    } ,
-  
-    {
-      "title"    : "Klahanie Recycle Event",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/events/2019-05-27-klahanie-recycle-event.html",
-      "date"     : "2019-05-27 08:13:00 -0700"
-    } ,
-  
-    {
-      "title"    : "1st Annual Klahanie Holiday Lighting Event",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/events/2019-12-09-1st-annual-klahanie-holiday-lighting-event.html",
-      "date"     : "2019-12-09 14:58:00 -0800"
-    } ,
-  
-    {
-      "title"    : "Klahanie Lunar New Year",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/events/2019-12-19-klahanie-lunar-new-year.html",
-      "date"     : "2019-12-19 11:30:00 -0800"
-    } ,
-  
-    {
-      "title"    : "CANCELED Klahanie Community Garage Sales",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/events/2020-01-23-klahanie-community-garage-sales.html",
-      "date"     : "2020-01-23 15:39:00 -0800"
-    } ,
-  
-    {
-      "title"    : "Klahanie 5K Summer Dash",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/events/2020-01-23-klahanie-5k-summer-dash.html",
-      "date"     : "2020-01-23 15:49:00 -0800"
-    } ,
-  
-    {
-      "title"    : "Klahanie Independence Day Parade",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/events/2020-01-23-klahanie-independence-day-parade.html",
-      "date"     : "2020-01-23 15:56:00 -0800"
     } ,
   
     {

@@ -35,6 +35,8 @@ plugins:
 
 collections:  
   announcements:
+    output: true
+    url: announcements
   staff:
   board:
   neighborhoods:
@@ -46,9 +48,6 @@ collections:
   clubs:
     output: true
     url: clubs
-  events:
-    output: true
-    url: events
   amenities: 
     output: true
     url: amenities
@@ -59,11 +58,13 @@ collections:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - readme.md
