@@ -111,3 +111,17 @@ h1, h2, h3, h4 {
 .carousel-header {
   max-height:300px;
 }
+.red-box { 
+  background-color: rgb(226,82,65);
+  color:white;
+  padding-top:4em;
+  padding-bottom:4em;
+}
+.committee-row img {
+  max-height:360px;
+  vertical-align: middle;
+  overflow: hidden;
+}
+.committee-row {
+  overflow:hidden;
+}
