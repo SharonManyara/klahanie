@@ -2,13 +2,15 @@
 layout: null
 ---
 [
-  {% for post in site.documents %}
+  {% for post in site.pages %}
     {
       "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
+      "categories" : "{{ post.categories | join: ',' }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "date"     : "{{ post.date }}",
+      "excerpt" : "{{ post.content | strip_html | strip_newlines | escape | replace: "$" "dollar" | replace:  "	", ''}}"
+    }{% unless forloop.last %},
+    {% endunless %}
+    {% endfor %}
 ]

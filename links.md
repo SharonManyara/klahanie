@@ -5,10 +5,8 @@ date: 2019-07-01 04:34
 author: Klahanie
 comments: true
 categories: [sections]
+show-title: true
 ---
-
-# Resources
-
 * <a href="{{site.url}}/files/Klahanie-Association-Architectural-Controls-2018.pdf">Klahanie Architectural Control Guidelines</a>
 * <a href="{{site.url}}/files/374142017Architectural-Controls_application.pdf">Klahanie Architectural Control (ACC) Application</a> 
 * <a href="{{site.url}}/files/Klahanie-Association-Rules-and-Regulations-2018.pdf">Klahanie Rules and Regulations</a>

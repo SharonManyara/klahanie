@@ -2,6 +2,7 @@
 
 <head>
   <title>Ashley Park - Klahanie Association</title>
+  <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
@@ -113,6 +114,7 @@
           </li>
           <li class="nav-item"><a class="nav-link" href="http://localhost:4000/renting-your-home.html">Renting Your Home</a></li>
           <li class="nav-item"><a class="nav-link" href="http://localhost:4000/staff.html">Staff</a></li>
+          <li class="nav-item"><a class="nav-link" href="http://localhost:4000/links.html">Links and Resources</a></li>
         </ul>
       </div>
     </li>
@@ -129,7 +131,7 @@
     <li class="nav-item"><a class="nav-link" href="http://localhost:4000/magazine.html">Klahanie Magazine</a></li>
     <li class="nav-item"><a class="nav-link" href="http://localhost:4000/calendar.html">Calendar of Events</a></li>
     <li class="nav-item"><a href="https://klahanieassociation.frontsteps.com/" class="nav-link">Homeowner Login</a></li>
-    <li class="nav-item"><a class='nav-link' data-toggle="modal" data-target="#search">Search</a></li>
+    <li class="nav-item"><a class='nav-link' data-toggle="modal" data-target="#myModal">Search</a></li>
   </ul>
   </ul>
   <div class="small ml-3 mt-4">4210 244th Place SE<br>
@@ -166,26 +168,13 @@
 
     </div>
   </div>
-    <!-- Modal -->
-    <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
-    <script type="text/javascript">
-      SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: 'http://localhost:4000/search.json',
-        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
-        limit: 10,
-        fuzzy: false,
-        exclude: ['Welcome']
-      })
-    </script>
+  
 
     <div class="footer col-sm-12 text-right m-0 p-4">
       <p class="small">&copy; Klahanie Association, 2020<br>
         Last Modified: Apr 13, 2020</p>
     </div>
-    <div id="search" class="modal fade" role="dialog">
+    <div id="myModal" class="modal fade" role="dialog">
       <div class="modal-dialog">
     
         <!-- Modal content-->
@@ -205,5 +194,21 @@
     
       </div>
     </div>
+      <!-- Modal -->
+      <script type="text/javascript">
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: 'http://localhost:4000/search.json',
+          searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+          noResultsText: 'No results found',
+          limit: 10,
+          fuzzy: false,
+          exclude: ['Welcome'],
+          success: function (data) {
+              console.log("search component success data： "+data);
+          }
+        })
+      </script>
   </body>
 </html>

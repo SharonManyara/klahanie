@@ -1,23 +1,10 @@
-  <!-- Modal -->
-    <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
-    <script type="text/javascript">
-      SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{site.url}}/search.json',
-        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
-        limit: 10,
-        fuzzy: false,
-        exclude: ['Welcome']
-      })
-    </script>
+
 
     <div class="footer col-sm-12 text-right m-0 p-4">
       <p class="small">&copy; Klahanie Association, 2020<br>
         Last Modified: {% last_modified_at %b %d, %Y %}</p>
     </div>
-    <div id="search" class="modal fade" role="dialog">
+    <div id="myModal" class="modal fade" role="dialog">
       <div class="modal-dialog">
     
         <!-- Modal content-->
@@ -37,3 +24,19 @@
     
       </div>
     </div>
+      <!-- Modal -->
+      <script type="text/javascript">
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '{{site.url}}/search.json',
+          searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+          noResultsText: 'No results found',
+          limit: 10,
+          fuzzy: false,
+          exclude: ['Welcome'],
+          success: function (data) {
+              console.log("search component success data： "+data);
+          }
+        })
+      </script>
