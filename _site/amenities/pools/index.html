@@ -23,6 +23,9 @@
           if($(this).attr("href") == pgurl || $(this).attr("href") == '' ) {
             $(this).addClass("active");
             $(this).parents("div.collapse").addClass("show");
+            if ($(this).hasClass("dropdown-toggle")) {
+              $(this).parent().children("div.collapse").first().addClass("show");
+            }
           }
           
      })
@@ -77,7 +80,15 @@
   <div id="item2" class="collapse">
     <ul class="nav ml-3">
       <li class="nav-item"><a class="nav-link" href="https://klahanie.com/klahanie-lifestyles/">Klahanie Lifestyles</a></li>
-      <li class="nav-item"><a class="nav-link" href="http://localhost:4000/amenities/pools/">Pool Information</a></li>
+      <li class="nav-item"><a class="nav-link dropdown-toggle" data-toggle="collapse" data-parent="nav" href="http://localhost:4000/amenities/pools/">Pool Information</a>
+        <div id="pools" class="collapse">
+          <ul class="nav ml-3">
+            <li class="nav-item"><a class="nav-link" href="http://localhost:4000/amenities/pools/lakeside-pool.html">Lakeside Pool</a></li>
+            <li class="nav-item"><a class="nav-link" href="http://localhost:4000/amenities/pools/mountainview-pool.html">Mountainview Pool</a></li>
+            <li class="nav-item"><a class="nav-link" href="http://localhost:4000/amenities/pools/swim-lessons.html">Swim Lessons</a></li>
+          </ul>
+        </div>
+      </li>
       <li class="nav-item"><a class="nav-link" href="https://klahanie.com/pool-forms/">Pool Rules</a></li>
       <li class="nav-item"><a class="nav-link" href="http://localhost:4000/amenities/tennis-information.html">Tennis Information</a></li>
       <li class="nav-item"><a class="nav-link" href="http://localhost:4000/clubs/">Clubs and Groups</a></li>
@@ -139,12 +150,12 @@
 <div class="alert alert-warning clearfix">Note: Klahanie Pools are closed due to the COVID-19 pandemic until further notice.
 </div>
 
-<p><img src="http://localhost:4000/images/swimming1.jpg" class="float-right col-sm-4" /></p>
+<p><img src="http://localhost:4000/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail" /></p>
 
 <ul>
-  <li><a href="http://klahanie.com/lakeside-pool/">Lakeside Pool Schedule</a></li>
-  <li><a href="http://klahanie.com/mountainview-pool/">Mountainview Pool Schedule</a></li>
-  <li><a href="http://klahanie.com/swim-lessons/">Swim Lessons</a></li>
+  <li><a href="http://localhost:4000/amenities/pools/lakeside-pool.html">Lakeside Pool Schedule</a></li>
+  <li><a href="http://localhost:4000/amenities/pools/mountainview-pool.html">Mountainview Pool Schedule</a></li>
+  <li><a href="http://localhost:4000/amenities/pools/swim-lessons.html">Swim Lessons</a></li>
 </ul>
 
 <p>The Klahanie Association operates two 25 meter Pools with 4 lanes. Lakeside Pool is open all year round. Mountainview Pool operates from Memorial Weekend until  Labor day. Whether you are looking for pool schedule, swim lessons, pool employment, pool rules and more, you’ll find detailed information below.</p>

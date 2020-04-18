@@ -11,11 +11,11 @@ categories: [pool]
 <div class="alert alert-warning clearfix">Note: Klahanie Pools are closed due to the COVID-19 pandemic until further notice.
 </div>
 
-<img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4">
+<img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail">
 
-* [Lakeside Pool Schedule](http://klahanie.com/lakeside-pool/)
-* [Mountainview Pool Schedule](http://klahanie.com/mountainview-pool/)
-* [Swim Lessons](http://klahanie.com/swim-lessons/)
+* [Lakeside Pool Schedule]({{site.url}}/amenities/pools/lakeside-pool.html)
+* [Mountainview Pool Schedule]({{site.url}}/amenities/pools/mountainview-pool.html)
+* [Swim Lessons]({{site.url}}/amenities/pools/swim-lessons.html)
 
 
 The Klahanie Association operates two 25 meter Pools with 4 lanes. Lakeside Pool is open all year round. Mountainview Pool operates from Memorial Weekend until  Labor day. Whether you are looking for pool schedule, swim lessons, pool employment, pool rules and more, you'll find detailed information below.

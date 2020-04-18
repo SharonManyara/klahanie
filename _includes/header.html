@@ -21,6 +21,9 @@
           if($(this).attr("href") == pgurl || $(this).attr("href") == '' ) {
             $(this).addClass("active");
             $(this).parents("div.collapse").addClass("show");
+            if ($(this).hasClass("dropdown-toggle")) {
+              $(this).parent().children("div.collapse").first().addClass("show");
+            }
           }
           
      })
