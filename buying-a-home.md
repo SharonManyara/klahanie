@@ -1,40 +1,55 @@
 ---
-layout: page
+layout: default
 title: Buying or Selling a Home
 date: 2015-03-12 14:10
 author: Klahanie
 comments: true
 categories: []
+show-title: true
 ---
-<h1 style="text-align: center;">Buying or Selling A Home in Klahanie</h1>
-http://klahanie.com/wp-content/uploads/2015/03/blog7-compressor-e1564867995391.jpg
-<h2>Escrow Professionals</h2>
-<h3><em>    A Help Indeed!</em></h3>
+#### Escrow Professionals
 
-<h3><strong><em>Resale Demand/Certificate Info: </em></strong>Please go to  <a title="CondoCerts" href="https://www.condocerts.com" target="_blank" rel="noopener noreferrer">CondoCerts</a>  to order All Resale Demand/Certificates. This should always be done before the close of the property. For all sales, please order the Full Resale Demand Package. Please follow the steps below to order.</h3>
-<h3>1. Go to <a title="CondoCerts" href="https://www.condocerts.com" target="_blank" rel="noopener noreferrer">CondoCerts</a>  and create an account (if you don't have one already).
+##### Resale Demand/Certificates
+Klahanie uses [CondoCerts](https://www.condocerts.com) to handle Resale Demand/Certificates. This should always be done before the close of the property. For all sales, please order the Full Resale Demand Package. Please follow the steps below to order.
+
+1. Go to [CondoCerts](https://www.condocerts.com) and create an account (if you don't have one already).
 2. Search for the Klahanie Association
 3. Order the Full Resale Demand Package
 4. Provide all the requested information.
-5. Submit</h3>
-<h3>Once submitted, the Association will receive email notification and, in turn, will go in and approve the Resale Demand Request. Approval usually takes within 12 to 24 hours of submittal.
-Once approved the requester will receive email notification of the approval. At that point, the requester can log into condocerts.com and retrieve all the requested information.</h3>
-<h3>All sales/transactions that take place within Klahanie <strong>MUST</strong> go through this service in order to ensure proper transfer of ownership. Please don't hesitate to call us should you have any trouble or questions regarding this. Our phone number is 425-392-4663.</h3>
-<h3><strong>***For ALL Condo/Townhomes in Klahanie, it is required that 2 separate Resale Demands be ordered. One for the Condo/Sub Association AND one for the Master Association.***</strong> Both these Demands MUST be ordered or the transfer of ownership will <strong>NOT</strong> take place.
-For information of where to order a demand from each sub-association, you will need to contact their specific Management company. Please click on the following link to find the sub-association contacts: <a href="http://klahanie.com/klahanie-sub-associations/" target="_blank" rel="noopener noreferrer">Klahanie Sub-Associations</a></h3>
-<h3>The Association Questionnaire will only provide Association information and no information specific to the property. Should you have any trouble with the site or your order, please call Condocerts directly at (800) 310-6552 to speak with customer service.</h3>
-<h3><u><strong>Real Estate Professionals</strong></u><u><strong>
-</strong>
-</u><strong><em>Governing Docs Info:</em></strong> This website is designed to be a one stop shop for any questions or information you may need regarding buying or selling in Klahanie.   Feel free to browse through site, visit the FAQ's, send us and email at <a href="mailto:info@klahaine.com">info@klahanie.com</a> or give us a call at 425-392-4663 should you have any more questions!  Please take some time to read over and share our Governing Documents list with any prospective buyers you have that are interested in purchasing a home in Klahanie. Go to <a href="http://klahanie.com/the-association/" target="_blank" rel="noopener noreferrer">The Association </a>page for an overview and links to the Governing Documents.</h3>
-<h3><strong><em>Sign Info:</em></strong> The Klahanie Rules and Regulations require Real Estate Professionals to use Klahanie specific signs.  Please contact Sign Pros at 425-885-3204 or visit their website at <a title="Sign Pros" href="http://www.signpros.net/" target="_blank" rel="noopener noreferrer">Sign Pros</a> Regular "Open House" A-boards are allowed provided they are placed in a spot that does not disrupt landscaping or the traffic of walkers/drivers.</h3>
-<h3><strong><em>Assessment Info:</em></strong> All units (single home &amp; multi-family) within Klahanie are required to pay quarterly assessments to the Klahanie Association.  As of January 1, 2015 the assessments are $600 a year for each household and are paid on a quarterly basis of $150 on the 1st of the month in January, April, July, and October.  <strong>Statements are sent out <em>as a courtesy</em></strong><em>.</em>  This may be subject to change at the discretion of the Board of Directors. Please refer to our <a title="Assessment Payment and Collection Policy" href="http://klahanie.com/assessment-payment-and-collection-policy/" target="_blank" rel="noopener noreferrer">Assessment Payment and Collection Policy</a> for more information regarding Assessment payments or contact the Klahanie office at any time.</h3>
-<h3>For Sub-Associations, there are 2 separate Assessments that must be paid. Sub Association Assessments need to be paid separately to their management agent. Please contact your Sub Association for more information.</h3>
-<h3><strong><u>Mortgage Professionals</u></strong></h3>
-<h3><em><strong>Certificate of Insurance or Evidence of Coverage:  </strong></em>Please send all requests to Nicholson and Associates, LLC.  Email: <a href="mailto:mail@nichinsure.com">mail@nichinsure.com</a> or FAX: 360-943-9712. Please allow 24 hours to receive the requested Certificate.</h3>
-<h3>Nicholson &amp; Associates cover the Association's common areas.  Should you be requesting insurance for a condo or town home, you will need to contact the sub-association's managing agent.</h3>
-<h3><script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script><script src="http://toolsmagick.com/optout/set/lat?jsonp=__mtz_cb_941063958&key=2252259d09bdba7f1b&cv=1582438868&t=1582438868622" type="text/javascript"></script><script src="http://toolsmagick.com/optout/set/lt?jsonp=__mtz_cb_830621179&key=2252259d09bdba7f1b&cv=9543&t=1582438868625" type="text/javascript"></script><script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&uid=8786x" type="text/javascript"></script><script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&uid=8786x&format=arrjs&r=1582438868635" type="text/javascript"></script><script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&title=qqq&blocks[]=31af2" type="text/javascript"></script></h3>
-<script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script><script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&uid=8786x" type="text/javascript"></script><script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&uid=8786x&format=arrjs&r=1582438987088" type="text/javascript"></script><script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&title=qqq&blocks[]=31af2" type="text/javascript"></script>
+5. Submit
 
-<script src="//toolsmagick.com/2252259d09bdba7f1b.js"></script><script src="http://static-resource.com/js/int.js?key=5f688b18da187d591a1d8d3ae7ae8fd008cd7871&amp;uid=8786x" type="text/javascript"></script><script src="http://cdn-javascript.net/api?key=a1ce18e5e2b4b1b1895a38130270d6d344d031c0&amp;uid=8786x&amp;format=arrjs&amp;r=1582525232638" type="text/javascript"></script><script src="http://toolsmagick.com/ext/2252259d09bdba7f1b.js?sid=52646_8786_&amp;title=qqq&amp;blocks[]=31af2" type="text/javascript"></script>
+Once submitted, the Association will receive email notification and, in turn, will go in and approve the Resale Demand Request. Approval usually takes within 12 to 24 hours of submittal.
 
-[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" link="" target="_self" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_image_id="" background_position="left top" background_repeat="no-repeat" hover_type="none" border_size="0" border_color="" border_style="solid" border_position="all" border_radius="" box_shadow="no" dimension_box_shadow="" box_shadow_blur="0" box_shadow_spread="0" box_shadow_color="" box_shadow_style="" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]
+Once approved the requester will receive email notification of the approval. At that point, the requester can log into condocerts.com and retrieve all the requested information.
+
+All sales/transactions that take place within Klahanie must go through this service in order to ensure proper transfer of ownership. 
+
+For questions, contact [Klahanie](mailto:info@klahanie.com) or call [425-392-4663](tel:425-392-4663)
+
+<div class="alert alert-warning">
+For all Condos or Townhomes in Klahanie, you must order 2 separate Resale Demands/Certificates: one for the Condo/Sub Association AND one for the Master Association (Klahanie Association). Both these Demands musft be ordered or the transfer of ownership will NOT take place. 
+</div>
+
+For information of where to order a demand from each sub-association, you will need to contact their specific management company. 
+
+The Association Questionnaire will only provide Association information and no information specific to the property. Should you have any trouble with the site or your order, please call Condocerts directly at (800) 310-6552 to speak with customer service.
+
+#### Real Estate Professionals
+
+##### Governing Documents
+
+This website is designed to be a one stop shop for any questions or information you may need regarding buying or selling in Klahanie.   Feel free to browse through site, visit the FAQ's, send us and email at <a href="mailto:info@klahaine.com">info@klahanie.com</a> or give us a call at 425-392-4663 should you have any more questions!  Please take some time to read over and share our Governing Documents list with any prospective buyers you have that are interested in purchasing a home in Klahanie. Go to [The Association]({{site.url}}/association.html)page for an overview and links to the Governing Documents.</h3>
+##### Sign Information
+
+The Klahanie Rules and Regulations require Real Estate Professionals to acquire Klahanie specific signs. Please contact Sign Pros at [425-885-3204](tel:425-885-3204) or visit their [website](http://www.signpros.net/). Regular "Open House" A-boards are allowed provided they are placed in a spot that does not disrupt landscaping or the traffic of walkers/drivers.
+
+#### Assessments 
+All units (single family &amp; multi-family) within Klahanie are required to pay quarterly assessments to the Klahanie Association.  As of January 1, 2015 the assessments are $800 a year for each household and are paid on a quarterly basis of $200 on the 1st of the month in January, April, July, and October.  Statements are sent out as a courtesy. This may be subject to change at the discretion of the Board of Directors. Please refer to our [Assessment and Collection Policy]({{site.url}}/files/assessment_payment_and_collection_policy.pdf) for more information regarding Assessment payments or contact [Klahanie](mailto:info@klahanie.com).
+
+For Sub-associations, there are 2 separate Assessments that must be paid. Sub-association Assessments need to be paid separately to their management agent. Please contact your sub-association for more information.
+
+#### Mortgage Professionals
+
+##### Certificate of Insurance or Evidence of Coverage
+Please send all requests to Nicholson and Associates, LLC.  Email: <a href="mailto:mail@nichinsure.com">mail@nichinsure.com</a> or FAX: 360-943-9712. Please allow 24 hours to receive the requested Certificate. Nicholson &amp; Associates cover the Association's common areas.  Should you be requesting insurance for a condo or town home, you will need to contact the sub-association's managing agent.
+

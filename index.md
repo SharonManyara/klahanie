@@ -13,5 +13,4 @@ video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_
   <div class="bignav blue col-3 float-left"><a href="buying-a-home.html">Buying a Home</a></div>
 </div>
 
-
-
+The Klahanie Association is a Home Owners Association (HOA) located on the Sammamish Plateau in Washington, around 20 miles outside of Seattle. Klahanie offers many amenities two swimming pools (one is covered during the winter to allow for year-round fun), miles of trails, parks, tennis and pickleball courts, and a scenic alpine lake. 
