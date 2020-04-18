@@ -27,7 +27,7 @@ All sales/transactions that take place within Klahanie must go through this serv
 For questions, contact [Klahanie](mailto:info@klahanie.com) or call [425-392-4663](tel:425-392-4663)
 
 <div class="alert alert-warning">
-For all Condos or Townhomes in Klahanie, you must order 2 separate Resale Demands/Certificates: one for the Condo/Sub Association AND one for the Master Association (Klahanie Association). Both these Demands musft be ordered or the transfer of ownership will NOT take place. 
+For all Condos or Townhomes in Klahanie, you must order 2 separate Resale Demands/Certificates: one for the condominum or sub-association and one for the Master Association (Klahanie Association). Both these Demands must be ordered or the transfer of ownership will noot take place. 
 </div>
 
 For information of where to order a demand from each sub-association, you will need to contact their specific management company. 
