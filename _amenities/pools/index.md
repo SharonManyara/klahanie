@@ -5,9 +5,8 @@ date: 2019-05-28 05:11
 author: Klahanie
 comments: true
 categories: [pool]
+show-title: true
 ---
-## Klahanie Pools
-
 <div class="alert alert-warning clearfix">Note: Klahanie Pools are closed due to the COVID-19 pandemic until further notice.
 </div>
 
