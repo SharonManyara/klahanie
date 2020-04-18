@@ -51,6 +51,16 @@
     
     
     {
+      "title"    : "Events calendar",
+      "categories" : "events",
+      "tags"     : "",
+      "url"      : "/events-calendar.html",
+      "date"     : "2020-02-16 20:55",
+      "excerpt" : ""
+    },
+    
+    
+    {
       "title"    : "Come Home to Klahanie",
       "categories" : "",
       "tags"     : "",
@@ -62,7 +72,7 @@
     
     {
       "title"    : "Klahanie Volunteers",
-      "categories" : "",
+      "categories" : "association",
       "tags"     : "",
       "url"      : "/klahanie-volunteers.html",
       "date"     : "2020-02-16 20:55",

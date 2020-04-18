@@ -4,7 +4,7 @@ title: Klahanie Volunteers
 date: 2020-02-16 20:55
 author: Klahanie
 comments: true
-categories: []
+categories: [association]
 ---
 <div class="red-box col-sm-12 pl-4 pr-4">
 <h1 class="text-center pb-4	">Klahanie Volunteers</h1>
