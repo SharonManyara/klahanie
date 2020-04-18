@@ -409,6 +409,14 @@
     } ,
   
     {
+      "title"    : "Klahanie Sharks Swim Team",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/clubs/klahanie-swim-team.html",
+      "date"     : "2019-06-10 07:36:00 -0700"
+    } ,
+  
+    {
       "title"    : "Clubs and Groups",
       "category" : "",
       "tags"     : "",
@@ -534,6 +542,14 @@
       "tags"     : "",
       "url"      : "/amenities/pools/lakeside-pool.html",
       "date"     : "2019-07-15 10:01:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Pool Rules",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/amenities/pools/pool-rules.html",
+      "date"     : "2019-08-05 08:18:00 -0700"
     } ,
   
     {

@@ -5,9 +5,8 @@ date: 2019-06-10 07:55
 author: Klahanie
 comments: true
 categories: [clubs]
+show-title: true
 ---
-# Klahanie Clubs and Groups
-
 {% for doc in site.clubs %}
 {% if doc.link == true %}
 <div class="row mb-4">

@@ -8,6 +8,7 @@ categories: [clubs]
 link: true
 description: Even if you have a small yard, you can keep a garden at the Klahanie Pea Patch. 
 banner: /images/Pea-Patch-Sign.jpg
+thumbnail: /images/Pea-Patch-Sign.jpg
 ---
 If you enjoy growing things but lack the space to do as much as you would like, Pea Patch gardening might be the answer for you. Pea Patch gardening is a marvelous opportunity to enjoy the company of other people who like to work the soil, and to have fun producing something to show for your efforts.
 

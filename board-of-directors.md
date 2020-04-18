@@ -3,13 +3,12 @@ layout: default
 title: Board of Directors
 date: 2015-03-12 14:10
 author: Klahanie
-categories: []
+categories: [board, association]
+show-title: true
 ---
-# Board of Directors
-
 The board meets every last Tuesday evening at 7:00 in the office. All meetings are open to members.
 
-* [Email the Board](mailto:board@klahanie.com).
+* [Email the Board](mailto:board@klahanie.com)
 
 {% for director in site.board %} <!-- this sorts by date, so you can tweak the date for each director page to tweak the order -->
 <div class="director-row row mb-4">

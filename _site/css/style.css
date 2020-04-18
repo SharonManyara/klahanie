@@ -1,8 +1,6 @@
 nav.sidebar {
   background-color: rgba(246, 249, 240,1);
-  min-width: 200px;
 }
-
 html {
   background-color: rgba(226, 229, 220, 1);
 }
@@ -128,4 +126,7 @@ h1, h2, h3, h4 {
 .footer {
   background-color: rgba(246, 249, 240,1);
   color:#333;
+}
+.nav-item {
+  width:100%;
 }
