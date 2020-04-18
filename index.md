@@ -6,7 +6,7 @@ layout: full-bleed
 categories: []
 video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_to_klahanie-1.mp4
 ---
-  <div class="bignav green col-3 float-left"><h4><a href="announcements.html">Announcements</a></h4></div>
+  <div class="bignav green col-3 float-left"><h4><a href="announcements/">Announcements</a></h4></div>
   <div class="bignav orange col-3 float-left"><h4><a href="association.html">The Association</a></h4></div>
   <div class="bignav green2 col-3 float-left"><h4><a href="/neighborhoods/">Neighborhoods</a></h4></div>
   <div class="bignav blue col-3 float-left"><h4><a href="amenities/">Amenities</a></h4></div>

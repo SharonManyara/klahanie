@@ -18,8 +18,8 @@ show-title: true
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"><a href="https://www.teamunify.com/cmkhoaa">TeamUnify</a></li>
-    <li class="list-group-item"><a href="{{site.url}}/liability-waiver.html">Liability Waiver</a></li>
-    <li class="list-group-item"><a href="{{site.url}}/cancellation-policy.html">Cancellation policy</a></li>
+    <li class="list-group-item"><a href="{{site.url}}/files/liability-waiver.pdf">Liability Waiver</a></li>
+    <li class="list-group-item"><a href="{{site.url}}/files/cancellation-policy.pdf">Cancellation policy</a></li>
     <li class="list-group-item"><a href="mailto:swimlessons@klahanie.com">Swim Lesson Coordinator</a></li>
     <li class="list-group-item"><a href="tel:425.463.6388">Call the office at (425) 463-6388</a></li>
   </ul>

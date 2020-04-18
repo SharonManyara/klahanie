@@ -9,12 +9,12 @@ link: true
 description: NAAK are careful stewards of Klahanie's natural areas
 thumbnail: /images/naak/Logo.jpg    
 banner: /images/naak/NAAK-cropped.jpg
+show-title: true
 ---
-### Natural Areas Association of Klahanie (NAAK)
-
 NAAK is a volunteer group of Klahanie residents committed to keeping Klahanie's natural areas healthy while providing a diverse habitat that protects and preserves wildlife.
 <img src="{{site.url}}/images/naak/Logo.jpg" class="float-right">
-What's happening now:
+
+### What's happening now
 
 * The Native Plant Demonstration Garden (across from Klahanie Park) is undergoing rejuvenation. Plant labels have been added and selective pruning has provided improved definition between the plants.  Over 50 sword ferns were donated by the Sammamish Native Plant Stewards and planted for diversity.  Soon, additional mulch will be spread to retard the growth of weeds and grasses. Spring and summer will be an excellent time to visit the garden and enjoy the plant varieties and blooms.
 * Many projects will soon be underway to control noxious weeds in our natural areas. Noxious weeds can decrease the biodiversity of native ecosystems, reduce water quality and threaten wildlife habitat.  These plants tend to reproduce quickly, lack predators, and are difficult to control without a dedicated and ongoing commitment of stewardship.
@@ -36,23 +36,21 @@ NAAK works closely with the Klahanie Association Director, recommending projects
 
 NAAK also provides overall direction to contracted services, like EarthCorps, to assist in the restoration and maintenance of our natural spaces. In addition, NAAK hosts and conducts periodic Klahanie volunteer work parties to remove noxious weeds and restore habitats from March through October. We invite you to join us in maintaining our healthy and beautiful natural areas.
 
-* <a href="{{site.url}}/clubs/naak/naak-history-and-accomplishments.html">NAAK's History and Accomplishments</a>
-* <a href="{{site.url}}/clubs/naak/naak-earthcorps-projects-for-2019.html">NAAK / EarthCorps Projects for 2019</a>
-* <a href="{{site.url}}/clubs/naak/960yl_trails_map.pdf">Klahanie Trails Map</a>
-* <a href="{{site.url}}/clubs/naak/Bird-Checklist.pdf">Klahanie Bird Checklist</a>
-* <a href="{{site.url}}/clubs/naak/yellow_lake_commonly_found_birds-2.pdf">Yellow Lake Trail Guide for Commonly Found Birds</a>
-* <a href="{{site.url}}/clubs/naak/yellow_lake_trail_guide_for_wildlife-2.pdf">Yellow Lake Trail Guide for Wildlife</a>
-* <a href="{{site.url}}/clubs/naak/yellow_lake_commonly_found_native_trees-2.pdf">Yellow Lake Trail Guide for Commonly Found Native Trees</a>
-* <a href="{{site.url}}/clubs/naak/yellow_lake__ground_and_vines_photos-2.pdf">Yellow Lake Trail Guide for Commonly Found Native Groundcovers and Vines</a>
-* <a href="{{site.url}}/clubs/naak/Queens-Bog-report.pdf">Queen Bog: Site Assessment Report</a>
-
-* <a href="http://www.issaquahreporter.com/news/keeping-klahanie-clean-neighborhood-continues-to-improve-natural-areas/">Improving our Natural Areas article in the Issaquah/Sammamish Reporter from 2012</a>
-* <a href="https://www.facebook.com/klahanienaak/">NAAK Facebook</a>
-* <a href="http://www.earthcorps.org/">Earth Corps</a>
-* <a href="http://earthcorps.maps.arcgis.com/apps/webappviewer/index.html?id=82047a95ec66449f9beef3908d0a9704">Klahanie ArcGIS</a> is used by EarthCorps to create a map of Klahanie's natural areas
-* 
-<a href="https://www.earthcorps.org/our-story/key-initiatives/pollinator-corridors/">Native Pollinator Habitat</a>: This guide for creating Native Pollinator Habitats was created by EarthCorps and will serve as a benchmark for the implementation of a habitat in Klahanie.
-* <a href="http://www.birdweb.org/birdweb/index.aspx">Birdweb Seattle Audubon's Guide</a>
-* <a href="https://eastsideaudubon.org/">Eastside Audubon Society</a>
-* <a href="https://green2.kingcounty.gov/gonative/index.aspx">Washington native plant information</a>
-* <a href="https://kingcounty.gov/services/environment/animals-and-plants/noxious-weeds.aspx">King County noxious weeds</a>
+* [NAAK's History and Accomplishments]({{site.url}}/clubs/naak/naak-history-and-accomplishments.html)
+* [NAAK / EarthCorps Projects for 2019]({{site.url}}/clubs/naak/naak-earthcorps-projects-for-2019.html)
+* [Klahanie Trails Map]({{site.url}}/files/960yl_trails_map.pdf)
+* [Klahanie Bird Checklist]({{site.url}}/clubs/naak/Bird-Checklist.pdf)
+* [Yellow Lake Trail Guide for Commonly Found Birds]({{site.url}}/clubs/naak/yellow_lake_commonly_found_birds-2.pdf)
+* [Yellow Lake Trail Guide for Wildlife]({{site.url}}/clubs/naak/yellow_lake_trail_guide_for_wildlife-2.pdf)
+* [Yellow Lake Trail Guide for Commonly Found Native Trees]({{site.url}}/clubs/naak/yellow_lake_commonly_found_native_trees-2.pdf)
+* [Yellow Lake Trail Guide for Commonly Found Native Groundcovers and Vines]({{site.url}}/clubs/naak/yellow_lake__ground_and_vines_photos-2.pdf)
+* [Queen Bog: Site Assessment Report]({{site.url}}/clubs/naak/Queens-Bog-report.pdf)
+* [Improving our Natural Areas article in the Issaquah/Sammamish Reporter from 2012](http://www.issaquahreporter.com/news/keeping-klahanie-clean-neighborhood-continues-to-improve-natural-areas/)
+* [NAAK Facebook](https://www.facebook.com/klahanienaak/)
+* [Earth Corps](http://www.earthcorps.org/)
+* [Klahanie ArcGIS is used by EarthCorps to create a map of Klahanie's natural areas](http://earthcorps.maps.arcgis.com/apps/webappviewer/index.html?id=82047a95ec66449f9beef3908d0a9704)
+* [Native Pollinator Habitat: This guide for creating Native Pollinator Habitats was created by EarthCorps and will serve as a benchmark for the implementation of a habitat in Klahanie](https://www.earthcorps.org/our-story/key-initiatives/pollinators/)
+* [Birdweb Seattle Audubon's Guide](http://www.birdweb.org/birdweb/index.aspx)
+* [Eastside Audubon Society](https://eastsideaudubon.org/)
+* [Washington native plant information](https://green2.kingcounty.gov/gonative/index.aspx)
+* [King County noxious weeds](https://kingcounty.gov/services/environment/animals-and-plants/noxious-weeds.aspx)
