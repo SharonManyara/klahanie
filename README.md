@@ -1,4 +1,4 @@
-# Klahanie website
+# Klahanie Website
 
 The Klahanie website is a static site which is generated using Jekyll. 
 
