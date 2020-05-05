@@ -8,7 +8,7 @@ categories: []
 show-title: false
 ---
 
-<img src="{{site.url}}/images/discounts/banner.jpg" class="img-fluid">
+<img src="{{site.url}}images/discounts/banner.jpg" class="img-fluid">
 
 As a member of the HOA, this portion of the web site is dedicated to providing you with information about the companies we have selected to provide you with discounts on their services because you are an HOA member is good standing.
 
