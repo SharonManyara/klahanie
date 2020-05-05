@@ -10,7 +10,7 @@ thumbnail: /images/discounts/SW_Logo-web.png
 ---
 
 <div class="col-sm-8 mx-auto">
-  <img src="{{site.url}}/images/discounts/SW_Logo-web.png" alt="Sherwin Williams Paint" class="img-fluid">
+  <img src="{{site.url}}images/discounts/SW_Logo-web.png" alt="Sherwin Williams Paint" class="img-fluid">
 </div>
 
 
@@ -23,5 +23,5 @@ Sherwin Williams offers a special discount to Klahanie residents on the purchase
 ##### Klahanie Discount Code: #5462
 
 <div class="col-sm-8 mx-auto">
-  <img src="{{site.url}}/images/discounts/Sherwin-Williams-Ad.png" class="img-fluid">
+  <img src="{{site.url}}images/discounts/Sherwin-Williams-Ad.png" class="img-fluid">
 </div>

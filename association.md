@@ -9,7 +9,7 @@ categories: []
 All property owners in Klahanie are members of the Klahanie Homeowners Association (KHOA). They are part of a major trend in America, where 21.3% of the entire population now live in an HOA. The growth of HOAs has been steady and impressive. In 1970 there were only 10,000 HOAs in America. Last year that number reached 351,000 HOA organizations.The Klahanie Homeowners Association is managed by a Board of Directors elected from among the residents. The Board hires the Association Director to manage the daily activities. The Director has a team of six full-time and one part time employees. Together they oversee the maintenance of all the common areas, manage the two swimming pools and lessons and plan community events. While others make certain that the architectural controls are followed, the assessments are made on a timely basis, bills are paid and most importantly that residents are warmly greeted when they come to the office.The office is located adjacent to the Lakeside Swimming Pool.
 
 <div class="col-sm-6 mx-auto">
-	<img src="{{site.url}}/images/Governance-Pyramid-2.png" class="img-fluid">
+	<img src="{{site.url}}images/Governance-Pyramid-2.png" class="img-fluid">
 </div>
 
 ### Governing Documents and Forms

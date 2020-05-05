@@ -6,7 +6,7 @@ author: Klahanie
 comments: true
 categories: []
 ---
-<img src="{{site.url}}/images/staff/Staff-Group-Shot-larger.jpg" class="img-fluid">
+<img src="{{site.url}}images/staff/Staff-Group-Shot-larger.jpg" class="img-fluid">
 
 {% for doc in site.staff %}
 {% if doc.title != "Staff" %}
