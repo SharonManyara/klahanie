@@ -12,10 +12,10 @@ thumbnail: /images/golden-rule-1.png
 <div id="carousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="{{site.url}}/images/golden-rule-1.png" alt="Golden Rule Lawn Care">
+      <img class="d-block w-100" src="{{site.url}}images/golden-rule-1.png" alt="Golden Rule Lawn Care">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{site.url}}/images/golden-rule-2.png" alt="Golden Rule Lawn Care">
+      <img class="d-block w-100" src="{{site.url}}images/golden-rule-2.png" alt="Golden Rule Lawn Care">
     </div>
 </div>
 

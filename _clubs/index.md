@@ -15,7 +15,7 @@ show-title: true
   {% endif %}
     <div class="col-md-10">
       <h4>
-      <a href="{{doc.url}}">{{doc.title}}</a>
+      <a href="{{site.url}}{{doc.url}}">{{doc.title}}</a>
       </h4>
       <div>{{doc.description}}
       </div>
