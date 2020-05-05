@@ -1,0 +1,40 @@
+<html>
+
+{% include header.html %}
+
+<body class="row p-0 mx-auto">
+
+    {% include nav.html %}
+
+
+  <div class="main col-sm-8 col-lg-10 p-0">
+    <div class="header">
+      {% if page.show-title == true and page.banner %}
+      <img src="{{site.url}}{{page.banner}}" class="img-fluid w-100">
+      <div class="header-background">
+        <h1 class="text-center">{{ page.title }}</h1>
+      </div>
+      {% else %}
+        {% if page.banner %}
+        <img src="{{site.url}}{{page.banner}}" class="img-fluid w-100">
+        {% endif %}
+        {% if page.video-banner %}
+        <video autoplay muted loop class="img-fluid w-100"><source src="{{page.video-banner}}" class="img-fluid w-100">"></video>
+        {% endif %}
+        {% if page.show-title == true %}
+          <h1 class="page-header p-4">{{ page.title }}</h1>
+        {% endif %}
+      {% endif %}
+    </div>
+    
+    <div class="p-4">
+      {% if page.categories contains 'announcements' %}
+        <p class="lead mt-n4">{{ page.date | date: '%b %d, %Y' }}</p>
+      {% endif %}
+  
+      {{ content }}
+    </div>
+  </div>
+  {% include footer.html %}
+  </body>
+</html>
