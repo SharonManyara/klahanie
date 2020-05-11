@@ -130,3 +130,25 @@ h1, h2, h3, h4 {
 .nav-item {
   width:100%;
 }
+.logo img {
+  max-width:200px;
+  max-height:200px;
+}
+@media (min-width: 768px) {
+  .navbar-expand-md .nav-collapse {
+      display: -ms-flexbox!important;
+      display: flex!important;
+      -ms-flex-preferred-size: auto;
+      flex-basis: auto;
+  }
+}
+
+.nav-collapse {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: auto;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -ms-flex-align: center;
+    align-items: center;
+    flex-direction: column;
+}
