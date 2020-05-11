@@ -22,7 +22,9 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Bundle install
-      run: bundle install
+      run: | 
+        gem install bundler 
+        bundle install
 
     - name: Build Jekyll
       uses: jerryjvl/jekyll-build-action@v1
