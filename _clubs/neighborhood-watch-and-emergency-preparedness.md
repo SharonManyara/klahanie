@@ -14,7 +14,7 @@ banner: /images/family-playing-outdoors.jpg
 
 <blockquote class="blockquote">If You See Something, Say Something</blockquote>
 
-<img src="{{site.url}}images/Neighborhood-Watch.png" class="float-right w-20">
+<img src="{{site.url}}/images/Neighborhood-Watch.png" class="float-right w-20">
 **Neighborhood Watch (NW) begins when you and your neighbors. gather in another’s home or connect via a summer BBQ/Block Party and**
 
 * A representative from NW/EP will provide a 3-minute explanation and invite one of you to serve as your NW/EP (She/he will organize the following info into a simple directory for all neighborhood participants).

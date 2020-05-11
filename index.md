@@ -25,7 +25,7 @@ video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_
 
 </div>
 
-<img src="{{site.url}}images/KHOA-Color-Map.jpg" class="img-fluid">
+<img src="{{site.url}}/images/KHOA-Color-Map.jpg" class="img-fluid">
 
 <div class="white about-footer" data-bg="http://klahanie.com/wp-content/uploads/2019/03/gradien-kiosk2.jpg">
 	<div>
