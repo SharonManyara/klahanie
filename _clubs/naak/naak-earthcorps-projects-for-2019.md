@@ -13,10 +13,10 @@ categories: [naak]
 Continue control of noxious weeds such as English ivy, Scotch broom, Himalayan blackberries, Yellow archangel, Purple loosestrife, Tansy ragwort, and Garlic mustard.
 
 #### North Fork of Issaquah Creek (NGPA)
-Continue control of noxious weeds such as English ivy, Scotch broom, Himalayan blackberries, Yellow archangel, Purple loosestrife, Tansy ragwort and Garlic mustard.
+Continue control of noxious weeds such as English ivy, Scotch broom, Himalayan blackberries, Yellow archangel, Purple loosestrife, Tansy ragwort, and Garlic mustard.
 
 #### Reforestation of Yellow Lake NGPA with one-gallon native tree stock
-Add native trees including western red cedar, and western hemlock to specific areas for reforestation in the fall of the year.  TBD based upon need and sustainability.
+Add native trees including western red cedar, and western hemlock to specific areas for reforestation in the fall of the year. TBD based upon need and sustainability.
 
 #### Mountain View NGPA (including Scotch broom behind pickleball court)
 Continue control of noxious weeds such as English ivy, Scotch broom, Himalayan blackberries, Tansy ragwort, and English holly.
@@ -55,11 +55,11 @@ Add a Native Plant Pollinator Habitat, behind the Native Plant Demonstration Gar
 Hold volunteer work parties to control of noxious weeds and improve wildlife habitats, as needed.
 
 #### Wood Duck Nesting Boxes
-Maintain Wood Duck boxes at Gander Pond.
+Maintain wood duck boxes at Gander Pond.
 
 #### Yellow Lake Water Quality Review
 Obtain samples of lake water for testing of heavy metals, petroleum, e-coli forms, etc.
 
-If you have any questions, please contact the Klahanie HOA who will direct you to a NAAK member.
+If you have any questions, please contact the [Klahanie HOA](mailto:info@klahanie.com) who will direct you to a NAAK member.
 
 You can find a map of the above locations on <a href="http://earthcorps.maps.arcgis.com/apps/webappviewer/index.html?id=82047a95ec66449f9beef3908d0a9704">Klahanie ArcGIS</a>
