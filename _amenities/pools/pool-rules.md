@@ -38,42 +38,44 @@ Any child in a life jacket must be accompanied by an adult in the water, within 
 * Inflatable beach balls or sponge balls are allowed during pool non-crowded conditions and at the manager's discretion.
 * No smoking inside the pool area.
 
-The Aquatics Manager or Lead Lifeguard may close the pool complex, or any portions of the pool complex for any safety or maintenance reasons.
+The Aquatics Manager or Lead Lifeguard may close the pool complex, or any portions of the pool complex, for any safety or maintenance reasons.
 
 Animals are not allowed in the pool area, with the exception of service dogs.  Service dogs are allowed on deck, but not in the water.
 
-Food and beverages are permitted on the pool deck, but are not allowed to be consumed while in the pool.
-
-The follow items are not allowed in the pool:
-* No water guns
-* No hard balls (such as tennis balls, footballs,etc.)
-* No flotation devices (inner tubes, inflatablerafts, noodles, etc.)
-* No kickboards or buoys during open swim times
-* No playing, climbing, or jumping off of the metal ladders or hand rails.
-* No sitting on  or riding on the shoulders of other patrons.
+Food and beverages are permitted on the pool deck, but are not allowed in the water.
 
 #### Prohibited acts/items
+* Playing, climbing, or jumping off of the metal ladders or hand rails.
 * Running, unnecessary noise, boisterous/roughplay
-* Shoulder-riding  /  Tennis balls  /  Squirt guns
-* Animals of all kinds  /  Smoking
-* Food or drink in not allowed in the water
-* Glass containers  /  Alcoholic beverages  /  Diving
-* Rafts or large flotation devices  /  Inappropriate swimming attire
+* Shoulder-riding 
+* Animals of all kinds
+* Smoking
+* Food or drink in the water
+* Glass containers
+* Alcoholic beverages 
+* Diving
+* Rafts or large flotation devices
+* Inappropriate swimming attire
 * Disposable diapers
+* Water guns
+* Hard balls (such as tennis balls, footballs,etc.)
+* Flotation devices (inner tubes, inflatablerafts, noodles, etc.)
+* Kickboards or buoys during open swim times
+
 
 #### General Pool Rules
 Pool use is reserved for Klahanie Association members in good standing and their guests only, unless otherwise scheduled.
 
 * All children 12 years old and under must be supervised and accompanied by a parent or guardian.
 * Patrons ages 13 - 17 years old must not use the pool alone and must be accompanied by a buddy.
-* Each Klahanie household may sponsor a maximum of 5 guests on any given day and meet the requirements of item above.
+* Each Klahanie household may sponsor a maximum of five guests on any given day and meet the requirements of item above.
 * Guests privileges may be limited at any time by management.
-* Residents must sign guests in and all guests over the age of 5 years old will be required to pay a $3 guest fee.
+* Residents must sign guests in and all guests over the age of five years old will be required to pay a $3 guest fee.
 * All guests must be accompanied by their Klahanie sponsor at all times while at the pool.
 * If you have a communicable disease that can be transmitted by water or have been ill with diarrhea or vomiting in the last two weeks, do not use the pool.
 * Patrons with seizure, heart, or circulatory problems are advised to swim with a buddy.
 * Anyone under the influence of drugs or alcohol may not enter the pool facilities.
-* The wading pool is for children 5 years old and younger.  All children using the wading pool must be supervised by a parent or guardian.
+* The wading pool is for children five years old and younger.  All children using the wading pool must be supervised by a parent or guardian.
 
 We have changing areas available; however, we assume no responsibility for lost,damaged, or stolen property.
 
