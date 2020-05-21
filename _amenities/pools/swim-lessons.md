@@ -9,7 +9,7 @@ show-title: true
 ---
 
 <div class="alert alert-warning">
-<strong>Note</strong> Klahanie Pools and swim lessons are currently closed due to the COVID-19 pandemic. 
+<strong>NOTE:</strong> Klahanie Pools and swim lessons are currently closed due to the COVID-19 pandemic. 
 </div>
 
 <div class="card float-right ml-4 mb-4">
@@ -27,34 +27,30 @@ show-title: true
 
 ### Off-season group lessons
 
-Off-Season Group Swim Lesson sessions run 1 class per week for 4 weeks. There are a variety of times available. Lessons are available for both Klahanie and non-Klahanie residents.
+Off-season group swim lesson sessions run one class per week for four weeks. There are a variety of times available. Lessons are available for both Klahanie and non-Klahanie residents.
 
-* Swim lessons are $32 per child for Klahanie residents and $46 per child for non-Klahanie residents, per session (4 lessons total).
-  - Lessons are 30 minutes long, 1 class per week for 4 weeks.
+* Swim lessons are $32 per child for Klahanie residents and $46 per child for non-Klahanie residents, per session (four lessons total). Lessons are 30 minutes long, one class per week for four weeks.
 
-* Stroke Clinic is $48 per child for Klahanie residents and $69 per child for non-Klahanie residents, per session (4 lessons total).
-  - The Stroke Clinic runs 45 minutes long, 1 class per week for 4 weeks.
+* Stroke clinic is $48 per child for Klahanie residents and $69 per child for non-Klahanie residents, per session (four lessons total). The stroke clinic runs 45 minutes long, one class per week for four weeks.
 
-### Private &amp; Semi-private lessons. 
+### Private &amp; Semiprivate lessons. 
 
-Private and Semi-Private lessons are offered year-round, based on Instructor availability. Please first contact the [Swim Lesson Coordinator](mailto:swimlessons@klahanie.com) to begin the private/semi private lesson set up process. After sending an email, you will be set up with a unique registration link and will be connected with an instructor to schedule the lessons. Please do not try to register for private/semi-private lessons on your own.
+Private and semiprivate lessons are offered year-round, based on Instructor availability. Please first contact the [Swim Lesson Coordinator](mailto:swimlessons@klahanie.com) to begin the private/semi private lesson set up process. After sending an email, you will be set up with a unique registration link and will be connected with an instructor to schedule the lessons. Please do not try to register for private/semi-private lessons on your own.
 
 <img src="{{site.url}}images/swim-1.jpg" class="float-right" style="max-width:200px;">
-If you need to cancel a lesson, make sure to cancel your private lesson at least 24 hours in advance. Otherwise, we can not reschedule the lesson.
+If you need to cancel a lesson, make sure to cancel your private lesson at least 24 hours in advance. Otherwise, we cannot reschedule the lesson.
 
 ### Aquafit
-Here you can register for Klahanie Aqua Aerobics classes. Scroll down to find the current classes that are available at Lakeside Pool during the Fall. Please look closely at the date range listed in the class descriptions.
+Klahanie offers aqua aerobics claasses. You can find more information about available aqua aerobics classes [here](https://www.teamunify.com/TabGeneric.jsp?_tabid_=227027&team=cmkhoaa).
 
 Pricing:
-* 4 classes: $24 for Klahanie Residents, $40 for Non-Residents
+* Four classes: $24 for Klahanie Residents, $40 for Non-Residents
 
 Schedule:
-* Tuesdays: 8-8:45pm
-* Wednesdays:5-5:45pm
-* Saturday 11am-11:45am
+* Tuesdays: 8:00 a.m. - 8:45 p.m.
+* Wednesdays: 5:00 p.m. - 5:45 p.m.
+* Saturdays:  11:00 a.m. - 11:45 a.m.
 
 ### Summer group lessons
 
-Here you can register for group swim lessons. Listed below are the current classes available at Lakeside and Mountainview Pools (during the summer months).
-
-Please review each class description before registering your child for a swim lesson. To reference the class objectives lists, click <a href="https://www.teamunify.com/cmkhoaa/__doc__/387357_2_Swim%20Lesson%20Class%20Objectives%202017.pdf">here</a>.
+Klahanie offers summer group lessons for children. You can find more information about available group swim lessons [here](https://www.teamunify.com/SubTabGeneric.jsp?team=cmkhoaa&_stabid_=167646).
