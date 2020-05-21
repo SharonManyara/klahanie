@@ -13,10 +13,10 @@ categories: [naak]
 Continue control of noxious weeds such as English ivy, Scotch broom, Himalayan blackberries, Yellow archangel, Purple loosestrife, Tansy ragwort, and Garlic mustard.
 
 #### North Fork of Issaquah Creek (NGPA)
-Continue control of noxious weeds such as English ivy, Scotch broom, Himalayan blackberries, Yellow archangel, Purple loosestrife, Tansy ragwort and Garlic mustard.
+Continue control of noxious weeds such as English ivy, Scotch broom, Himalayan blackberries, Yellow archangel, Purple loosestrife, Tansy ragwort, and Garlic mustard.
 
 #### Reforestation of Yellow Lake NGPA with one-gallon native tree stock
-Add native trees including western red cedar, and western hemlock to specific areas for reforestation in the fall of the year.  TBD based upon need and sustainability.
+Add native trees including western red cedar, and western hemlock to specific areas for reforestation in the fall of the year. TBD based upon need and sustainability.
 
 #### Mountain View NGPA (including Scotch broom behind pickleball court)
 Continue control of noxious weeds such as English ivy, Scotch broom, Himalayan blackberries, Tansy ragwort, and English holly.
