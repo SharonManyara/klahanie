@@ -12,7 +12,7 @@ The board meets every last Tuesday evening at 7:00 in the office. All meetings a
 
 {% for director in site.board %} <!-- this sorts by date, so you can tweak the date for each director page to tweak the order -->
 <div class="director-row row mb-4">
-    <img class="img-thumbnail col-md-2" src="{{site.url}}{{director.thumbnail}}">
+    <img class="img-thumbnail col-md-2" src="{{site.url}}/{{director.thumbnail}}">
     <div class="col-md-10">
     <h4 class="director-name">
       {{director.title}}

@@ -6,11 +6,12 @@ layout: full-bleed
 categories: []
 video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_to_klahanie-1.mp4
 ---
-  <div class="bignav green col-3 float-left"><h4><a href="announcements/">Announcements</a></h4></div>
-  <div class="bignav orange col-3 float-left"><h4><a href="association.html">The Association</a></h4></div>
-  <div class="bignav green2 col-3 float-left"><h4><a href="/neighborhoods/">Neighborhoods</a></h4></div>
-  <div class="bignav blue col-3 float-left"><h4><a href="amenities/">Amenities</a></h4></div>
-
+<div class="d-flex flex-row flex-wrap">
+  <div class="bignav green"><h4><a href="announcements/">Announcements</a></h4></div>
+  <div class="bignav orange"><h4><a href="association.html">The Association</a></h4></div>
+  <div class="bignav green2"><h4><a href="/neighborhoods/">Neighborhoods</a></h4></div>
+  <div class="bignav blue"><h4><a href="amenities/">Amenities</a></h4></div>
+</div>
 <div class="p-4 row">
 
 <p>Located on a forested plateau 18-miles east of Seattle, Klahanie comprises 900 acres containing 1,967 single family homes, 718 multifamily residences, and 405 apartment units. The residents are surrounded by natural areas in every direction, including 30-miles of groomed trails, a scenic alpine lake, two swimming pools, three tennis and four basketball courts, four Pickle Ball/ Badminton courts and baseball fields.</p>
@@ -25,7 +26,7 @@ video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_
 
 </div>
 
-<img src="{{site.url}}images/KHOA-Color-Map.jpg" class="img-fluid">
+<img src="{{site.url}}/images/KHOA-Color-Map.jpg" class="img-fluid">
 
 <div class="white about-footer" data-bg="http://klahanie.com/wp-content/uploads/2019/03/gradien-kiosk2.jpg">
 	<div>
