@@ -22,8 +22,7 @@ The Klahanie Association operates two 25-meter Pools with four lanes. Lakeside P
 
 Every Klahanie resident is permitted to enjoy the Klahanie pools and to participate in the aquatics programs. Since the pools are a privilege for Klahanie residents only, please register yourself at the HOA office prior to your first visit to the Pool. HOA office hours are Monday - Thursday 8:30 a.m. - 5:00 p.m. and Friday 9 a.m. - 4 p.m.
 
-In order to enter the pool please have your ID ready and show it at check-in.
+In order to enter the pool, please have your ID ready and show it at check-in.
 
 ### Contact 
-* [Pools](mailto:pools@klahanie.com)
-* [(425) 463-6388](tel:425-463-6388)
+If you have any questions, you may reach us via [email](mailto:pools@klahanie.com) or [telephone (425) 463-6388](tel:425-463-6388)
