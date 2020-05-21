@@ -55,7 +55,7 @@ Add a Native Plant Pollinator Habitat, behind the Native Plant Demonstration Gar
 Hold volunteer work parties to control of noxious weeds and improve wildlife habitats, as needed.
 
 #### Wood Duck Nesting Boxes
-Maintain Wood Duck boxes at Gander Pond.
+Maintain wood duck boxes at Gander Pond.
 
 #### Yellow Lake Water Quality Review
 Obtain samples of lake water for testing of heavy metals, petroleum, e-coli forms, etc.
