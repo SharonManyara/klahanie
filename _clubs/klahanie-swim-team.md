@@ -9,7 +9,7 @@ categories: [pools, clubs]
 show-title: true
 banner: /images/shark-swim-banner.gif
 thumbnail: /images/shark-swim-banner.gif
-description: The Klahanie Sharks are a fun swim league for kids aged 8 to 18!
+description: The Klahanie Sharks are a fun swim league for kids aged 8 to 18.
 ---
 The Klahanie Association is proud to partner with the the Klahanie Swim Team to provide a great opportunity for Klahanie youth to participate in team sports. The Klahanie Swim Team is a member of the 26-Team, Midlakes Summer Swim League. We seek to provide a competitive swimming environment for a young swimmer that is fun and relaxed.
 
