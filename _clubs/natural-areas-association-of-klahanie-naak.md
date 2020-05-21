@@ -17,11 +17,11 @@ NAAK is a volunteer group of Klahanie residents committed to keeping Klahanie's 
 ### What's happening now
 
 * The Native Plant Demonstration Garden (across from Klahanie Park) is undergoing rejuvenation. Plant labels have been added and selective pruning has provided improved definition between the plants.  Over 50 sword ferns were donated by the Sammamish Native Plant Stewards and planted for diversity.  Soon, additional mulch will be spread to retard the growth of weeds and grasses. Spring and summer will be an excellent time to visit the garden and enjoy the plant varieties and blooms.
-* Many projects will soon be underway to control noxious weeds in our natural areas. Noxious weeds can decrease the biodiversity of native ecosystems, reduce water quality and threaten wildlife habitat.  These plants tend to reproduce quickly, lack predators, and are difficult to control without a dedicated and ongoing commitment of stewardship.
-* Wood Ducks are currently checking out boxes at Gander Pond for spring nesting. If you would be willing to volunteer, we’re pretty sure Klahanie ducks would appreciate their nesting boxes being kept clean and secure.
+* Many projects will soon be underway to control noxious weeds in our natural areas. Noxious weeds can decrease the biodiversity of native ecosystems, reduce water quality, and threaten wildlife habitat.  These plants tend to reproduce quickly, lack predators, and are difficult to control without a dedicated and ongoing commitment of stewardship.
+* Wood ducks are currently checking out boxes at Gander Pond for spring nesting. If you would be willing to volunteer, we’re pretty sure Klahanie ducks would appreciate their nesting boxes being kept clean and secure.
 * A Native Plant Pollinator Habitat will be created behind the Native Plant Demonstration Garden. Site preparation will begin in March with plantings in the fall.  These native plants will provide beauty and nectar for pollinators including hummingbirds, native bees, butterflies, and moths.
 * If you are curious about what EarthCorps will be doing around your neighborhood or favorite hiking trails this spring, summer, and fall, check out the NAAK / EarthCorps Projects for 2019 link below.
-* If you are interested in joining the club and/or willing to pitch in for a few hours, please contact the Klahanie HOA office to let them know of your interest and availability. They will have a NAAK member get in touch with you.
+* If you are interested in joining the club and/or willing to pitch in for a few hours, please contact the [Klahanie HOA](mailto:info@klahanie.com) to let them know of your interest and availability. They will have a NAAK member get in touch with you.
 
 ### NAAK Mission
 
@@ -32,7 +32,7 @@ NAAK works closely with the Klahanie Association Director, recommending projects
 * Removal and control of noxious weeds in Klahanie’s natural areas
 * Restoring native plant and wildlife habitats
 * Overseeing the health of Yellow Lake and its aquatic life
-* Educating our community about native plants, noxious weeds and the wildlife that frequent the Klahanie area.
+* Educating our community about native plants, noxious weeds, and the wildlife that frequent the Klahanie area.
 
 NAAK also provides overall direction to contracted services, like EarthCorps, to assist in the restoration and maintenance of our natural spaces. In addition, NAAK hosts and conducts periodic Klahanie volunteer work parties to remove noxious weeds and restore habitats from March through October. We invite you to join us in maintaining our healthy and beautiful natural areas.
 
