@@ -77,7 +77,7 @@ Pool use is reserved for Klahanie Association members in good standing and their
 * Anyone under the influence of drugs or alcohol may not enter the pool facilities.
 * The wading pool is for children five years old and younger.  All children using the wading pool must be supervised by a parent or guardian.
 
-We have changing areas available; however, we assume no responsibility for lost,damaged, or stolen property.
+We have changing areas available; however, we assume no responsibility for lost, damaged, or stolen property.
 
 #### Pool Occupancy 
 * Lakeside Pool- 140 people 
