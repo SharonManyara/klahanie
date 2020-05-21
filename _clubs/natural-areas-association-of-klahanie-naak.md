@@ -6,7 +6,7 @@ author: Klahanie
 comments: true
 categories: [clubs]
 link: true
-description: NAAK are careful stewards of Klahanie's natural areas
+description: NAAK are careful stewards of Klahanie's natural areas.
 thumbnail: /images/naak/Logo.jpg    
 banner: /images/naak/NAAK-cropped.jpg
 show-title: true
