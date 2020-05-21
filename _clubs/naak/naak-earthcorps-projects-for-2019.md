@@ -60,6 +60,6 @@ Maintain wood duck boxes at Gander Pond.
 #### Yellow Lake Water Quality Review
 Obtain samples of lake water for testing of heavy metals, petroleum, e-coli forms, etc.
 
-If you have any questions, please contact the Klahanie HOA who will direct you to a NAAK member.
+If you have any questions, please contact the [Klahanie HOA](mailto:info@klahanie.com) who will direct you to a NAAK member.
 
 You can find a map of the above locations on <a href="http://earthcorps.maps.arcgis.com/apps/webappviewer/index.html?id=82047a95ec66449f9beef3908d0a9704">Klahanie ArcGIS</a>
