@@ -35,7 +35,7 @@ Any child in a life jacket must be accompanied by an adult in the water, within 
 * Starting blocks may be used only in scheduled practices, competitions, and instruction when supervised by a coach or instructor.
 * Kickboards are for lap swimming, swim team, and swim lessons ONLY.
 * Jumps into the pool must be feet first and facing the pool.  NO SPINS, FLIPS, OR DIVES.
-* Inflatable beach balls or sponge balls are allowed during pool non-crowdedconditions and at the manager's discretion.
+* Inflatable beach balls or sponge balls are allowed during pool non-crowded conditions and at the manager's discretion.
 * No smoking inside the pool area.
 
 The Aquatics Manager or Lead Lifeguard may close the pool complex, or any portions of the pool complex for any safety or maintenance reasons.
