@@ -1,0 +1,155 @@
+nav.sidebar {
+  background-color: rgba(246, 249, 240,1);
+}
+html {
+  background-color: rgba(226, 229, 220, 1);
+}
+body {
+  font-family: "Segoe UI", Helvetica, Arial, sans-sarif;
+  padding-top: 10px;
+  max-width:1200px;
+  background-color: white;
+}
+.header {
+  position: relative;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+}
+.header-background {
+  position:absolute;
+  top: 50%;
+  left:50%;
+  background-color:#00000040;
+  transform: translate(-50%, -50%);
+  height: auto; 
+  vertical-align: middle;
+  width: 100%;;
+}
+.header-background h1 {
+  color: white;
+}
+
+
+.bignav {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  flex-grow: 1;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: lighter;
+}
+
+.bignav a {
+  color: white;
+  size: 24px;
+  vertical-align: middle;
+}
+
+.green {
+  background-color: rgb(96, 125, 139);
+}
+
+.orange {
+  background-color: rgb(250, 153, 136);
+}
+
+.green2 {
+  background-color: rgb(100, 173, 164);
+}
+
+.blue {
+  background-color: rgb(116, 197, 227);
+}
+
+.nav-item a {
+  color: #e33833;
+}
+
+.nav-item .active {
+  font-weight: bold;
+}
+
+.page-header {
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.white {
+  color: white;
+}
+
+.white-link {
+  font-size: 16px;
+}
+
+.about-footer {
+  background-color: rgba(139, 195, 74, 0);
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding: 130px 30px;
+  border-top: 0px solid rgb(234, 233, 233);
+  border-bottom: 0px solid rgb(234, 233, 233);
+  border-right-color: rgb(234, 233, 233);
+  border-left-color: rgb(234, 233, 233);
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url("https://klahanie.com/wp-content/uploads/2019/03/gradien-kiosk2.jpg");
+}
+.carousel-header {
+  max-height:300px;
+}
+.red-box { 
+  background-color: rgb(226,82,65);
+  color:white;
+  padding-top:4em;
+  padding-bottom:4em;
+}
+.committee-row img {
+  max-height:400px;
+  vertical-align: middle;  
+  overflow: hidden;
+}
+.committee-row {
+  overflow:hidden;
+}
+.footer {
+  background-color: rgba(246, 249, 240,1);
+  color:#333;
+}
+.nav-item {
+  width:100%;
+}
+.logo img {
+  max-width:200px;
+  max-height:200px;
+}
+@media (min-width: 768px) {
+  .navbar-expand-md .nav-collapse {
+      display: -ms-flexbox!important;
+      display: flex!important;
+      -ms-flex-preferred-size: auto;
+      flex-basis: auto;
+  }
+}
+
+.nav-collapse {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: auto;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -ms-flex-align: center;
+    align-items: center;
+    flex-direction: column;
+}

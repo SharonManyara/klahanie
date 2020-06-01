@@ -1,0 +1,42 @@
+
+
+    <div class="footer col-sm-12 text-right m-0 p-4">
+      <p class="small">&copy; Klahanie Association, 2020<br>
+      Last Modified: {% last_modified_at %b %d, %Y %}</p>
+    </div>
+    <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+    
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Search</h4>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+          </div>
+          <div class="modal-body">
+            <input type="text" class="form-control" id="search-input" placeholder="Search blog posts..">
+            <ul id="results-container" class='mt-4'></ul>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+    
+      </div>
+    </div>
+      <!-- Modal -->
+      <script type="text/javascript">
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '{{site.url}}/search.json',
+          searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+          noResultsText: 'No results found',
+          limit: 10,
+          fuzzy: false,
+          exclude: ['Welcome'],
+          success: function (data) {
+              console.log("search component success data： "+data);
+          }
+        })
+      </script>
