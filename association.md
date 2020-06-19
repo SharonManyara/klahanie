@@ -14,7 +14,7 @@ All property owners in Klahanie are members of the Klahanie Homeowners Associati
 
 ### Governing Documents and Forms
 
-Every HOA has a series of legal documents that define the rights and obligations of both the Association and its owners/residents. These documents establish the mechanisms for governing and funding the Association’s operations, as well as setting forth the rules and standards. When considering the purchase of a home in any HOA, it is imperative that your understand the Governing documents.
+Every HOA has a series of legal documents that define the rights and obligations of both the Association and its owners/residents. These documents establish the mechanisms for governing and funding the Association’s operations, as well as setting forth the rules and standards. When considering the purchase of a home in any HOA, it is important that your understand the Governing documents.
 
 As with most legal documents, there is a general hierarchy of governing documents.
 
