@@ -4,7 +4,7 @@ date: 2015-03-12 14:07
 author: Klahanie
 layout: full-bleed
 categories: []
-video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_to_klahanie-1.mp4
+video-banner: https://klahanie.com/images/klahanie_come_home_to_klahanie-1.mp4
 ---
 <div class="d-flex flex-row flex-wrap">
   <div class="bignav green"><h4><a href="announcements/">Announcements</a></h4></div>
