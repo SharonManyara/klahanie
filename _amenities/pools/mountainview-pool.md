@@ -7,4 +7,4 @@ comments: true
 categories: [pool]
 show-title: true
 ---
-<iframe src="https://calendar.google.com/calendar/embed?src=ltb6cujgnb71ms4k33hjt12j8k%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles" class="w-100 h-100"></iframe>
+<iframe src="{{site.url}}/images/Mountainview Schedule.pdf" class="w-100 h-100"></iframe>
