@@ -18,7 +18,7 @@ categories: []
     </div>
     <div class="col-md-8 col-sm-12">
       <h4>
-      <a href="mailto:{{doc.email}}">{{staff.title}}</a>
+      <a href="mailto:{{staff.email}}">{{staff.title}}</a>
       </h4>
       <h5>{{staff.position}}</h5>
       <div>{{staff.description}}

@@ -7,5 +7,5 @@ comments: true
 categories: [pool]
 show-title: true
 ---
-<iframe class="w-100 h-100" src="https://calendar.google.com/calendar/embed?src=i40d5h7ea7irhtoh909mrrp3r0%40group.calendar.google.com&ctz=America%2FLos_Angeles"></iframe>
+<iframe class="w-100 h-100" src="{{site.url}}/images/Lakeside Schedule.pdf"></iframe>
 
