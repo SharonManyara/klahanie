@@ -8,14 +8,15 @@ categories: [pool]
 show-title: true
 ---
 
-## Open Swim Guidelines
+### NEW OPEN SWIM GUIDELINES
 
 We’ve updated our pool protocols to further comply with the government Covid-19 guidelines:
-* **30-person maximum for each facility and 15-person maximum in each pool** at any given time
-* **Open Swims are Now Instructional / No Fees Charged** – swimmers will be assigned in groups of 5, guards will provide basic tips for swim skill improvement as requested by swimmers
-* **Online Registration Now Required for Open Instructional Swim** - [Register for a time slot](https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa)
-  * Registration opens 8pm the evening before the registered date and closes 5 minutes before the specified registration time slot (you must create a team unify account in order to register).
-  * Registration is required for those who wish to swim in the pool, but not those that will remain on the deck
+
+30-person maximum for each facility and 15-person maximum in each pool at any given time
+Open Swims are Now Instructional / No Fees Charged – swimmers will be assigned in groups of 5, guards will provide basic tips for swim skill improvement as requested by swimmers
+Online Registration Now Required for Open Instructional Swim - use this link to register for a time slot: https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa
+Registration opens 8pm the evening before the registered date and closes 5 minutes before the specified registration time slot (you must create a team unify account in order to register).
+Registration is required for those who wish to swim in the pool, but not those that will remain on the deck
 
 ## Private swim lessons now being offered - Group and Individual
 
