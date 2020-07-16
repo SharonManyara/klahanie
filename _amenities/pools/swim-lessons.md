@@ -33,23 +33,20 @@ Off-season group swim lesson sessions run one class per week for four weeks. The
 
 * Stroke clinic is $48 per child for Klahanie residents and $69 per child for non-Klahanie residents, per session (four lessons total). The stroke clinic runs 45 minutes long, one class per week for four weeks.
 
-### Private &amp; Semiprivate lessons. 
+### Covid Private Swim Lesson Guidelines:
 
-Private and semiprivate lessons are offered year-round, based on Instructor availability. Please first contact the [Swim Lesson Coordinator](mailto:swimlessons@klahanie.com) to begin the private/semi private lesson set up process. After sending an email, you will be set up with a unique registration link and will be connected with an instructor to schedule the lessons. Please do not try to register for private/semi-private lessons on your own.
+During Phase 2 - activities that make six-foot physical distancing difficult (e.g., instructing beginner swimmers) are not authorized
+We are only offering swim lessons for children Beginner 2 level and up
+To qualify the student must be able to swim the width of the pool (approx. 15 meters) without being helped
+Instructors will avoid direct contact with the swimmers
+Instructors will be in the water for Beginner level students, and on the deck for Intermediate and Advanced level students. 
+Private and Semi-private lessons will only be offered during Open Swim times
+Once swimmers are assigned an instructor, times will be scheduled directly with instructor (we appreciate your flexibility with scheduling)
+Semi-private lessons will only be available for members of the same household only (i.e. both swimmers must live in the same house)
+Swimmers must have similar swimming ability as well
 
-<img src="{{site.url}}images/swim-1.jpg" class="float-right" style="max-width:200px;">
-If you need to cancel a lesson, make sure to cancel your private lesson at least 24 hours in advance. Otherwise, we cannot reschedule the lesson.
 
-### Aquafit
-Klahanie offers aqua aerobics claasses. You can find more information about available aqua aerobics classes [here](https://www.teamunify.com/TabGeneric.jsp?_tabid_=227027&team=cmkhoaa).
-
-Pricing:
-* Four classes: $24 for Klahanie Residents, $40 for Non-Residents
-
-Schedule:
-* Tuesdays: 8:00 a.m. - 8:45 p.m.
-* Wednesdays: 5:00 p.m. - 5:45 p.m.
-* Saturdays:  11:00 a.m. - 11:45 a.m.
+Please direct questions to info@klahanie.com or call 425-392-4663
 
 ### Summer group lessons
 
