@@ -8,7 +8,7 @@ categories: [pool]
 show-title: true
 ---
 <div class="alert alert-info">
-  As of July 1, Klahanie pools are open with limited service due to COVID-19. <a href="{{site.url}}/amenities/covid-guidelines.html">Learn more</a>
+  As of July 1, Klahanie pools are open with limited service due to COVID-19. <a href="{{site.url}}/amenities/pools/covid-guidelines.html">Learn more</a>
 </div>
 
 <img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail">
