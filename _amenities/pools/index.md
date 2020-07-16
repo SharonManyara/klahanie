@@ -9,6 +9,10 @@ show-title: true
 ---
 <img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail">
 
+<div class="alert alert-info">
+  As of July 1, Klahanie pools are open with limited service due to COVID-19. <a href="{{site.url}}/amenities/covid-guidelines.html">Learn more</a>
+</div>
+
 * [Lakeside Pool Schedule]({{site.url}}/amenities/pools/lakeside-pool.html)
 * [Mountainview Pool Schedule]({{site.url}}/amenities/pools/mountainview-pool.html)
 * [Swim Lessons]({{site.url}}/amenities/pools/swim-lessons.html)
