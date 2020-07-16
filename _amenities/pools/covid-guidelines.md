@@ -8,14 +8,26 @@ categories: [pool]
 show-title: true
 ---
 
-## Open Swim Guidelines
+### POOL UPDATE – IMPROVED PROCESS FOR REGISTRATION
 
-We’ve updated our pool protocols to further comply with the government Covid-19 guidelines:
-* **30-person maximum for each facility and 15-person maximum in each pool** at any given time
-* **Open Swims are Now Instructional / No Fees Charged** – swimmers will be assigned in groups of 5, guards will provide basic tips for swim skill improvement as requested by swimmers
-* **Online Registration Now Required for Open Instructional Swim** - [Register for a time slot](https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa)
-  * Registration opens 8pm the evening before the registered date and closes 5 minutes before the specified registration time slot (you must create a team unify account in order to register).
-  * Registration is required for those who wish to swim in the pool, but not those that will remain on the deck
+Please find below clarifications and adjustments that we believe will be helpful: 
+•	During Phase 2 – only “Instructional” swim is allowed (groups of 5 or less)
+•	Open Swims are now called Open Instructional Swims (no fees charged)  
+Swimmers will be assigned in groups of 5 (not necessary to stay in group during swim) - guards will provide basic tips for swim skill improvement as requested by swimmers.
+•	Online registration is now required for Open Instructional Swim 
+use this link: https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa
+
+o	Registration opens at 8 p.m. the evening before the registered date and closes 5 minutes before the specified registration time slot. (You must create a KHOA Team Unify account in order to register).
+o	Registration is required for ALL those who wish to enter facility – whether swimming or not.
+o	30-person maximum for each facility and pool at any given time 
+(no longer 15 only in pool / 15 on deck)
+o	No Shows– if registered swimmers do not show within 10 minutes of start time, their spot will be given to the next on waitlist.
+o	Wait Lists - a wait list will be maintained at each pool. Residents must be present to place names on list (not done online). If we experience a no-show, or there is capacity, we will allow those on wait list to enter – first come, first serve.
+o	Cancellations – if you need to cancel reservations please call office at 425.392.4663, or email swimlessons@klahanie.com
+o	Questions? Call pools directly:
+	Lakeside Pool        425.391.8503
+	Mountain View Pool   425.557.7856
+
 
 ## Private swim lessons now being offered - Group and Individual
 
