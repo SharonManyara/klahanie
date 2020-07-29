@@ -9,7 +9,7 @@ video-banner: images/klahanie-intro.mp4
 <div class="d-flex flex-row flex-wrap">
   <div class="bignav green"><h4><a href="announcements/">Announcements</a></h4></div>
   <div class="bignav orange"><h4><a href="association.html">The Association</a></h4></div>
-  <div class="bignav green2"><h4><a href="/neighborhoods/">Neighborhoods</a></h4></div>
+  <div class="bignav green2"><h4><a href="neighborhoods/">Neighborhoods</a></h4></div>
   <div class="bignav blue"><h4><a href="amenities/">Amenities</a></h4></div>
 </div>
 <div class="p-4 row">
