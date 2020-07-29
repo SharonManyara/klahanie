@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Build
 
 # Controls when the action will run. Triggers the workflow on push or pull request
@@ -40,7 +38,9 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
 
-    - name: My Broken Link Checker
-      uses: ruzickap/action-my-broken-link-checker@v1.0.3
+    - name: broken-link-check
+      uses: jhutchings1/link-checker@recurse
       with:
-        url: "https://klahanie.github.io/klahanie"
+        ignorePatterns: 'https://klahanieassociation.frontsteps.com/'
+        url: 'https://klahanie.github.io/klahanie'
+
