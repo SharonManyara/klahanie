@@ -41,7 +41,7 @@ video-banner: images/klahanie-intro.mp4
 				</div>
 				<div data-animationoffset="100%" style="margin-top:0px;margin-bottom:60px;">
 					<div style="border-color:rgba(255,255,255,0);">
-						<a href="http://localhost:4000/neighborhoods/" class="white">Learn More</a>
+						<a href="{{site.url}}/neighborhoods/" class="white">Learn More</a>
 					</div>
 				</div>
 			</div>
