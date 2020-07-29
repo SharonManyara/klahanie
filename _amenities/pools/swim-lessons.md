@@ -9,7 +9,7 @@ show-title: true
 ---
 
 <div class="alert alert-warning">
-<strong>NOTE:</strong> Klahanie pools are open and swim lessons are being offered with limitation. 
+<strong>NOTE:</strong> Klahanie pools are open and swim lessons are being offered with limitations. 
 </div>
 
 <div class="card float-right ml-4 mb-4">
