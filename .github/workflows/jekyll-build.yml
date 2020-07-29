@@ -40,24 +40,9 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
 
-    - name: urls-checker
-      uses: urlstechie/urlchecker-action@0.2.1
+    - name: Check for broken links
+      id: link-report
+      uses: elliotforbes/broken-link-checker@1.0.2
       with:
-        # A subfolder or path to navigate to in the present or cloned repository
-        subfolder: ./_site
-
-        # A comma-separated list of file types to cover in the URL checks
-        file_types: .html
-
-        # Choose whether to include file with no URLs in the prints.
-        print_all: false
-
-        # The timeout seconds to provide to requests, defaults to 5 seconds
-        timeout: 5
-
-        # How many times to retry a failed request (each is logged, defaults to 1)
-        retry_count: 3
-
-        # A comma separated links to exclude during URL checks
-        white_listed_urls: https://klahanieassociation.frontsteps.com/
+        url: 'https://klahanie.github.io/klahanie'
 
