@@ -39,8 +39,8 @@ jobs:
         publish_dir: ./_site
 
     - name: broken-link-check
-      uses: celinekurpershoek/link-checker@v1.0.0
+      uses: jhutchings1/link-checker@recurse
       with:
-        ignorePatterns: 'https://klahanieassociation.frontsteps.com'
+        ignorePatterns: 'https://klahanieassociation.frontsteps.com/'
         url: 'https://klahanie.github.io/klahanie'
 
