@@ -34,14 +34,14 @@ jobs:
       run: |
         bundle exec jekyll build
 
+    - name: My Broken Link Checker
+      uses: ruzickap/action-my-broken-link-checker@v1.0.3
+      with:
+        pages_path: ./_site
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
-        
-    - name: HashiCorp's Link Checker
-      uses: hashicorp/gh-action-check-broken-links@v1
-      with:
-        # The base URL that links will be resolved against
-        baseUrl: https://klahanie.github.io/klahanie
+
