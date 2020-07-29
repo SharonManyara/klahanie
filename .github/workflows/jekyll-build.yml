@@ -34,14 +34,13 @@ jobs:
       run: |
         bundle exec jekyll build
 
-    - name: My Broken Link Checker
-      uses: ruzickap/action-my-broken-link-checker@v1.0.3
-      with:
-        url: ./_site
-
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
 
+    - name: My Broken Link Checker
+      uses: ruzickap/action-my-broken-link-checker@v1.0.3
+      with:
+        url: "https://klahanie.github.io/klahanie"
