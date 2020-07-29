@@ -38,9 +38,9 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
 
-    - name: Check for broken links
-      id: link-report
-      uses: elliotforbes/broken-link-checker@1.0.2
+    - name: broken-link-check
+      uses: celinekurpershoek/link-checker@v1.0.0
       with:
+        ignorePatterns: 'https://klahanieassociation.frontsteps.com'
         url: 'https://klahanie.github.io/klahanie'
 
