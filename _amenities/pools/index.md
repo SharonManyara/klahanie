@@ -26,4 +26,6 @@ Every Klahanie resident is permitted to enjoy the Klahanie pools and to particip
 In order to enter the pool, please have your ID ready and show it at check-in.
 
 ### Contact 
-If you have any questions, you may reach us via [email](mailto:swimlessons@klahanie.com) or [telephone MountainView Pool: (425) 557-7856 ] Lakeside Pool:(425-)391-8503)
+- [Email](mailto:swimlessons@klahanie.com)
+- Mountainview Pool [(425) 557-7856](tel:425-557-7856)
+- Lakeside Pool: [(425)391-8503](tel:425-391-8503)
